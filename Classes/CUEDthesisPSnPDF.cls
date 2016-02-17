@@ -47,6 +47,7 @@
 \usepackage[square, sort, numbers, authoryear]{natbib}
 \usepackage{ifthen}
 \usepackage{ifpdf}
+\usepackage[grey]{quotchap}
 
 
 %Bibliography
@@ -172,7 +173,8 @@
   \renewcommand{\headrulewidth}{0pt}
 }
 
-\newcommand{\submittedtext}{{A thesis submitted for the degree of}}
+\newcommand{\submittedtext}{{A thesis submitted in partial fulfilment\\
+of the requirements for the degree of}}
 %
 %
 % DECLARATIONS
@@ -209,18 +211,20 @@
     \thispagestyle{empty}
 %  \null\vfill
   \begin{center}
+\rule{\textwidth}{1pt}\par
     { \Huge {\bfseries {\@title}} \par}
-{\large \vspace*{35mm} {{\@crest} \par} \vspace*{25mm}}
+\rule{\textwidth}{1pt}\par
+{\large \vspace*{15mm} {{\@crest} \par} \vspace*{10mm}}
     {{\Large \@author} \par}
 {\large \vspace*{1ex}
     {{\@collegeordept} \par}
 \vspace*{1ex}
     {{\@university} \par}
-\vspace*{25mm}
-    {{\submittedtext} \par}
+\vspace*{10mm}
+    {{\normalsize \submittedtext} \par}
 \vspace*{1ex}
     {\it {\@degree} \par}
-\vspace*{2ex}
+\vspace*{15mm}
     {\@degreedate}}
   \end{center}
   \null\vfill

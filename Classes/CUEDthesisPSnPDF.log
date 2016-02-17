@@ -1,0 +1,14 @@
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdftex 2012.4.5)  6 APR 2012 20:31
+entering extended mode
+**C:/Users/Jessica/Documents/Tex/CUEDThesisPSnPDF/Classes/CUEDthesisPSnPDF.cls
+(C:/Users/Jessica/Documents/Tex/CUEDThesisPSnPDF/Classes/CUEDthesisPSnPDF.cls
+! Undefined control sequence.
+l.8 \ProvidesClass
+                  {CUEDthesisPSnPDF}[2010/07/14 v1.1 CUED thesis class]
+? 
+! Emergency stop.
+l.8 \ProvidesClass
+                  {CUEDthesisPSnPDF}[2010/07/14 v1.1 CUED thesis class]
+End of file on the terminal!
+
+!  ==> Fatal error occurred, no output PDF file produced!

@@ -5,41 +5,40 @@
 
 
 \ifpdf
-    \pdfinfo { /Title  (CUED PhD and MPhil Thesis Classes)
+    \pdfinfo { /Title  (Tag Clouds in Software Visualisation)
                /Creator (TeX)
                /Producer (pdfTeX)
-               /Author (Harish Bhanderi harish.bhanderi@cantab.net)
+               /Author (Jessica Emerson jmt.emerson@gmail.com)
                /CreationDate (D:20030101000000)  %format D:YYYYMMDDhhmmss
                /ModDate (D:20030815213532)
-               /Subject (Writing a PhD thesis in LaTeX)
-               /Keywords (PhD, Thesis)}
+               /Subject (Tag Clouds in Software Visualisation)
+               /Keywords (Word Clouds, Tag Clouds, Software Visualisation, Thesis)}
     \pdfcatalog { /PageMode (/UseOutlines)
                   /OpenAction (fitbh)  }
 \fi
 
-\title{Writing a PhD Thesis\\[1ex]
-        in \LaTeXe}
+\title{Tag Clouds in Software Visualisation}
 
 \ifpdf
-  \author{\href{mailto:harish.bhanderi@cantab.net}{Harish Bhanderi}}
-  \collegeordept{\href{http://www.eng.cam.ac.uk}{Department of Engineering}}
-  \university{\href{http://www.cam.ac.uk}{University of Cambridge}}
+  \author{\href{mailto:jmt.emerson@gmail.com}{Jessica Emerson}}
+  \collegeordept{\href{http://www.cosc.canterbury.ac.nz/}{Department of Computer Science and Software Engineering}}
+  \university{\href{http://www.canterbury.ac.nz/}{University of Canterbury}}
 % insert below the file name that contains the crest in-place of 'UnivShield'
-  \crest{\includegraphics[width=30mm]{UnivShield}}
+  \crest{\includegraphics[width=60mm]{UCLogo}}
 \else
-  \author{Harish Bhanderi}
-  \collegeordept{Department of Engineering}
-  \university{University of Cambridge}
+  \author{Jessica Emerson}
+  \collegeordept{Department of Computer Science and Software Engineering}
+  \university{University of Canterbury}
 % insert below the file name that contains the crest in-place of 'UnivShield'
-  \crest{\includegraphics[bb = 0 0 292 336, width=30mm]{UnivShield}}
+  \crest{\includegraphics[bb = 0 0 292 336, width=30mm]{UCLogo}}
 \fi
 %
 % insert below the file name that contains the crest in-place of 'UnivShield'
-% \crest{\IncludeGraphicsW{UnivShield}{40mm}{14 14 73 81}}
-%
+%\crest{\IncludeGraphicsW{UCLogo}{40mm}{14 14 73 81}}
+
 %\renewcommand{\submittedtext}{change the default text here if needed}
-\degree{Doctor of Philosophy}
-\degreedate{Yet to be decided}
+\degree{Master of Science}
+\degreedate{2013}
 
 % turn of those nasty overfull and underfull hboxes
 \hbadness=10000
@@ -65,12 +64,9 @@
 % \end{abstractseparate}
 
 
-
-
 % Using the watermark package which is in StyleFiles/
 % and to remove DRAFT COPY ONLY appearing on the top of all pages comment out below line
 %\watermark{DRAFT COPY ONLY}
-
 
 \maketitle
 
@@ -91,15 +87,21 @@
 
 \mainmatter % book mode only
 \include{Introduction/introduction}
+\include{Chapter1/chapter1quote}
 \include{Chapter1/chapter1}
 \include{Chapter2/chapter2}
 \include{Chapter3/chapter3}
+\include{Chapter4/chapter4}
 \include{Conclusions/conclusions}
 
 \backmatter % book mode only
 \appendix
+\renewcommand{\thesection}{A.\arabic{section}}
 \include{Appendix1/appendix1}
+\renewcommand{\thesection}{B.\arabic{section}}
 \include{Appendix2/appendix2}
+\renewcommand{\thesection}{C.\arabic{section}}
+\include{Appendix3/appendix3}
 
 \bibliographystyle{plainnat}
 %\bibliographystyle{Classes/CUEDbiblio}

@@ -1,0 +1,819 @@
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.4.5)  30 JUL 2012 14:38
+entering extended mode
+**C:/Users/Jessica/Documents/Tex/Jessica*Thesis*-*Current/thesis.tex
+("C:/Users/Jessica/Documents/Tex/Jessica Thesis - Current/thesis.tex"
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2009-06-19, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, lao, latin, lat
+vian, lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerm
+an, ngerman-x-2009-06-19, nynorsk, oriya, panjabi, pinyin, polish, portuguese, 
+romanian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swis
+sgerman, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, u
+senglishmax, welsh, loaded.
+
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Classes/CUEDthesisPSn
+PDF.cls"
+
+LaTeX Warning: You have requested document class `Classes/CUEDthesisPSnPDF',
+               but the document class provides `CUEDthesisPSnPDF'.
+
+Document Class: CUEDthesisPSnPDF 2010/07/14 v1.1 CUED thesis class
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\book.cls"
+Document Class: book 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\bk12.clo"
+File: bk12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\setspace\setspace.sty"
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tocbibind\tocbibind.sty"
+Package: tocbibind 2010/10/13 v1.5k extra ToC listings
+Package tocbibind Info: The document has chapter divisions on input line 50.
+
+
+Package tocbibind Note: Using chapter style headings, unless overridden.
+
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+Package: amssymb 2009/06/22 v3.00
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\@emptytoks=\toks14
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty"
+\fancy@headwidth=\skip43
+\f@ncyO@elh=\skip44
+\f@ncyO@erh=\skip45
+\f@ncyO@olh=\skip46
+\f@ncyO@orh=\skip47
+\f@ncyO@elf=\skip48
+\f@ncyO@erf=\skip49
+\f@ncyO@olf=\skip50
+\f@ncyO@orf=\skip51
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\eucal.sty"
+Package: eucal 2009/06/22 v3.00 Euler Script fonts
+LaTeX Font Info:    Overwriting math alphabet `\EuScript' in version `bold'
+(Font)                  U/eus/m/n --> U/eus/b/n on input line 33.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.sty"
+Package: babel 2008/07/06 v3.8l The Babel package
+
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\bblopts.cfg"
+File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\english.ldf"
+Language: english 2005/03/30 v3.3o English support from the babel system
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.def"
+File: babel.def 2008/07/06 v3.8l Babel common definitions
+\babel@savecnt=\count88
+\U@D=\dimen103
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\color.sty"
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count89
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\dvipsnam.def"
+File: dvipsnam.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\footmisc\footmisc.sty"
+Package: footmisc 2011/06/06 v5.5b a miscellany of footnote facilities
+\FN@temptoken=\toks15
+\footnotemargin=\dimen104
+\c@pp@next@reset=\count90
+\c@@fnserial=\count91
+Package footmisc Info: Declaring symbol style bringhurst on input line 855.
+Package footmisc Info: Declaring symbol style chicago on input line 863.
+Package footmisc Info: Declaring symbol style wiley on input line 872.
+Package footmisc Info: Declaring symbol style lamport-robust on input line 883.
+
+Package footmisc Info: Declaring symbol style lamport* on input line 903.
+Package footmisc Info: Declaring symbol style lamport*-robust on input line 924
+.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\natbib\natbib.sty"
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip52
+\bibsep=\skip53
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count92
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\quotchap\quotchap.sty"
+Package: quotchap 2011/01/15 v1.0 Decorative Chapter Headings with Quotes
+\@quotebox=\box26
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\nomencl\nomencl.sty"
+Package: nomencl 2005/09/22 v4.2 Nomenclature package (LN)
+\nomlabelwidth=\dimen105
+\nom@tempdim=\dimen106
+\nomitemsep=\skip54
+)
+\@nomenclaturefile=\write3
+
+Writing nomenclature file thesis.nlo
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
+Package: hyperref 2011/04/17 v6.82g Hypertext links for LaTeX
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
+Package: hobsub-hyperref 2011/04/23 v1.4 Bundle oberdiek, subset hyperref (HO)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
+Package: hobsub-generic 2011/04/23 v1.4 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2011/04/23 v1.4 Subsetting bundle oberdiek (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2010/03/01 v1.5 Switches for detecting VTeX and its modes (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2007/09/27 v1.1 Expandable integer calculations (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2011/02/16 v1.5 Prefix for e-TeX command names (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2011/04/07 v1.13 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Defining keys (HO)
+Package: pdftexcmds 2011/04/22 v0.16 Utilities of pdfTeX for LuaTeX (HO)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2011/04/04 v1.12 Provides string conversions (HO)
+Package: bigintcalc 2011/01/30 v1.2 Expandable big integer calculations (HO)
+Package: bitset 2011/01/30 v1.1 Data type bit set (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provides unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2011/01/30 v1.0 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/04/23 v1.7 Hooks at very end of document (HO)
+Package atveryend Info: \enddocument detected (standard).
+Package: atbegshi 2011/01/30 v1.15 At begin shipout hook (HO)
+Package: refcount 2010/12/01 v3.2 Data extraction from references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options of hyperref/bookmark (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2010/12/23 v3.10 Keyval support for LaTeX options (HO)
+)
+\@linkdim=\dimen107
+\Hy@linkcounter=\count93
+\Hy@pagecounter=\count94
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
+File: pd1enc.def 2011/04/17 v6.82g Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count95
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `plainpages' set `false' on input line 3905.
+Package hyperref Info: Option `pdfpagelabels' set `true' on input line 3905.
+Package hyperref Info: Option `bookmarks' set `true' on input line 3905.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 3905.
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 3905
+.
+Package hyperref Info: Option `breaklinks' set `true' on input line 3905.
+Package hyperref Info: Option `linktocpage' set `true' on input line 3905.
+Package hyperref Info: Option `colorlinks' set `true' on input line 3905.
+Package hyperref Info: Option `hyperindex' set `true' on input line 3905.
+Package hyperref Info: Option `hyperfigures' set `true' on input line 3905.
+Package hyperref Info: Hyper figures ON on input line 4024.
+Package hyperref Info: Link nesting OFF on input line 4031.
+Package hyperref Info: Hyper index ON on input line 4034.
+Package hyperref Info: Plain pages OFF on input line 4041.
+Package hyperref Info: Backreferencing ON on input line 4044.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4264.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\backref.sty"
+Package: backref 2010/08/30 v1.36 Bibliographical back referencing
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+))
+\c@Hy@tempcnt=\count96
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ltxmisc\url.sty"
+\Urlmuskip=\muskip10
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4617.
+\Fld@menulength=\count97
+\Field@Width=\dimen108
+\Fld@charsize=\dimen109
+Package hyperref Info: Hyper figures ON on input line 5699.
+Package hyperref Info: Link nesting OFF on input line 5706.
+Package hyperref Info: Hyper index ON on input line 5709.
+Package hyperref Info: backreferencing ON on input line 5714.
+Package hyperref Info: Link coloring ON on input line 5719.
+Package hyperref Info: Link coloring with OCG OFF on input line 5726.
+Package hyperref Info: PDF/A mode OFF on input line 5731.
+LaTeX Info: Redefining \ref on input line 5771.
+LaTeX Info: Redefining \pageref on input line 5775.
+\Hy@abspage=\count98
+\c@Item=\count99
+\c@Hfootnote=\count100
+)
+
+Package hyperref Message: Driver: hpdftex.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
+File: hpdftex.def 2011/04/17 v6.82g Hyperref driver for pdfTeX
+\Fld@listcount=\count101
+\c@bookmark@seq@number=\count102
+\Hy@SectionHShift=\skip55
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+)
+\Gin@req@height=\dimen110
+\Gin@req@width=\dimen111
+)
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 166.
+
+)
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\StyleFiles/watermark.
+sty"
+
+LaTeX Warning: You have requested package `StyleFiles/watermark',
+               but the package provides `watermark'.
+
+Package: watermark 2002/01/29 v1.00 Watermarks (NCC)
+) ("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\thesis.aux"
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Dedication/dedication
+.aux")
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Acknowledgement/ackno
+wledgement.aux")
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Abstract/abstract.aux
+")
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Introduction/introduc
+tion.aux")
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Chapter1/chapter1quot
+e.aux")
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Chapter1/chapter1.aux
+")
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Chapter2/chapter2.aux
+")
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Chapter3/chapter3.aux
+")
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Chapter4/chapter4.aux
+")
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Conclusions/conclusio
+ns.aux")
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Appendix1/appendix1.a
+ux")
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Appendix2/appendix2.a
+ux")
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Appendix3/appendix3.a
+ux"))
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count103
+\scratchdimen=\dimen112
+\scratchbox=\box27
+\nofMPsegments=\count104
+\nofMParguments=\count105
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count106
+\MPscratchDim=\dimen113
+\MPnumerator=\count107
+\makeMPintoPDFobject=\count108
+\everyMPtoPDFconversion=\toks18
+)
+\AtBeginShipoutBox=\box28
+Package backref Info: ** backref set up for natbib ** on input line 53.
+Package hyperref Info: Link coloring ON on input line 53.
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
+Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count109
+)
+LaTeX Info: Redefining \ref on input line 53.
+LaTeX Info: Redefining \pageref on input line 53.
+LaTeX Info: Redefining \nameref on input line 53.
+
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\thesis.out")
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\thesis.out")
+\@outlinefile=\write4
+
+<ThesisFigs/UCLogo.pdf, id=367, 169.63374pt x 146.5475pt>
+File: ThesisFigs/UCLogo.pdf Graphic file (type pdf)
+
+<use ThesisFigs/UCLogo.pdf>
+Package pdftex.def Info: ThesisFigs/UCLogo.pdf used on input line 71.
+(pdftex.def)             Requested size: 170.71652pt x 147.48853pt.
+ [0
+
+{C:/Users/Jessica/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/
+Jessica/Documents/Tex/Jessica Thesis - Current/ThesisFigs/UCLogo.pdf>]
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Dedication/dedication
+.tex" [1
+
+
+])
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Acknowledgement/ackno
+wledgement.tex" [2
+
+
+])
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Abstract/abstract.tex
+" [3
+
+
+])
+LaTeX Font Info:    Try loading font information for T1+pbk on input line 83.
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\t1pbk.fd"
+File: t1pbk.fd 2001/06/04 font definitions for T1/pbk.
+)
+LaTeX Font Info:    Font shape `T1/pbk/b/n' in size <24.88> not available
+(Font)              Font shape `T1/pbk/db/n' tried instead on input line 83.
+LaTeX Font Info:    Font shape `T1/pbk/b/n' in size <100> not available
+(Font)              Font shape `T1/pbk/db/n' tried instead on input line 83.
+
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\thesis.toc"
+LaTeX Font Info:    Try loading font information for U+msa on input line 6.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 6.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+) [4
+\FN@pp@footnotehinttrue 
+
+
+] [5]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ì in font cmr12!
+ [6])
+\tf@toc=\write5
+ [7]
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\thesis.lof")
+\tf@lof=\write6
+
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\thesis.nls" [8
+
+])
+[9
+
+]
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Introduction/introduc
+tion.tex"
+Chapter 1.
+
+Package natbib Warning: Multiple citation on page 1: same authors and year
+(natbib)                without distinguishing extra letter,
+(natbib)                appears as question mark.
+
+[1
+
+
+
+]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 21.
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 21.
+ [2] [3])
+[4]
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Chapter1/chapter1quot
+e.tex")
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Chapter1/chapter1.tex
+"
+Chapter 2.
+[5
+
+
+
+
+
+] [6] [7] [8] [9] [10] [11] [12] [13]
+<Chapter1/Chapter1Figs/londontube.png, id=728, 602.25pt x 416.55624pt>
+File: Chapter1/Chapter1Figs/londontube.png Graphic file (type png)
+
+<use Chapter1/Chapter1Figs/londontube.png>
+Package pdftex.def Info: Chapter1/Chapter1Figs/londontube.png used on input lin
+e 130.
+(pdftex.def)             Requested size: 398.33858pt x 275.52544pt.
+ [14 <C:/Users/Jessica/Documents/Tex/Jessica Thesis - Current/Chapter1/Chapter1
+Figs/londontube.png>]
+<Chapter1/Chapter1Figs/treemap.png, id=739, 216.05719pt x 289.08pt>
+File: Chapter1/Chapter1Figs/treemap.png Graphic file (type png)
+
+<use Chapter1/Chapter1Figs/treemap.png>
+Package pdftex.def Info: Chapter1/Chapter1Figs/treemap.png used on input line 1
+52.
+(pdftex.def)             Requested size: 170.71652pt x 228.42361pt.
+ [15 <C:/Users/Jessica/Documents/Tex/Jessica Thesis - Current/Chapter1/Chapter1
+Figs/treemap.png>]
+<Chapter1/Chapter1Figs/tagcrowd.png, id=758, 565.36218pt x 212.29312pt>
+File: Chapter1/Chapter1Figs/tagcrowd.png Graphic file (type png)
+
+<use Chapter1/Chapter1Figs/tagcrowd.png>
+Package pdftex.def Info: Chapter1/Chapter1Figs/tagcrowd.png used on input line 
+168.
+(pdftex.def)             Requested size: 398.33858pt x 149.57921pt.
+ [16 <C:/Users/Jessica/Documents/Tex/Jessica Thesis - Current/Chapter1/Chapter1
+Figs/tagcrowd.png>]
+<Chapter1/Chapter1Figs/thesistagcloud.png, id=776, 584.1825pt x 380.17032pt>
+File: Chapter1/Chapter1Figs/thesistagcloud.png Graphic file (type png)
+
+<use Chapter1/Chapter1Figs/thesistagcloud.png>
+Package pdftex.def Info: Chapter1/Chapter1Figs/thesistagcloud.png used on input
+ line 185.
+(pdftex.def)             Requested size: 398.33858pt x 259.2375pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[17] [18 <C:/Users/Jessica/Documents/Tex/Jessica Thesis - Current/Chapter1/Chap
+ter1Figs/thesistagcloud.png>] [19]
+<Chapter1/Chapter1Figs/uml.png, id=884, 206.27063pt x 163.3603pt>
+File: Chapter1/Chapter1Figs/uml.png Graphic file (type png)
+
+<use Chapter1/Chapter1Figs/uml.png>
+Package pdftex.def Info: Chapter1/Chapter1Figs/uml.png used on input line 212.
+(pdftex.def)             Requested size: 170.71652pt x 135.20512pt.
+) [20 <C:/Users/Jessica/Documents/Tex/Jessica Thesis - Current/Chapter1/Chapter
+1Figs/uml.png>]
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Chapter2/chapter2.tex
+"
+Chapter 3.
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Chapter2/section1.tex
+" [21
+
+
+
+])
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Chapter2/section2.tex
+" [22])
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Chapter2/section3.tex
+" [23])
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Chapter2/section4.tex
+")
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Chapter2/section5.tex
+" [24]) [25]
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Chapter2/section6.tex
+")) [26]
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Chapter3/chapter3.tex
+"
+Chapter 4.
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Chapter3/section1.tex
+"
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ì in font cmr12!
+ [27
+
+
+
+])
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Chapter3/section2.tex
+")
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Chapter3/section3.tex
+"
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+)
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Chapter3/section4.tex
+"
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ì in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ì in font cmr12!
+ [28]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ì in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ì in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ì in font cmr12!
+)
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Chapter3/section5.tex
+")) [29]
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Chapter4/chapter4.tex
+"
+Chapter 5.
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Chapter4/section1.tex
+" [30
+
+
+
+])
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Chapter4/section2.tex
+" [31]
+<Chapter4/Chapter4Figs/sonarcloud.png, id=958, 1020.06094pt x 503.63156pt>
+File: Chapter4/Chapter4Figs/sonarcloud.png Graphic file (type png)
+
+<use Chapter4/Chapter4Figs/sonarcloud.png>
+Package pdftex.def Info: Chapter4/Chapter4Figs/sonarcloud.png used on input lin
+e 14.
+(pdftex.def)             Requested size: 398.33858pt x 196.66911pt.
+ [32 <C:/Users/Jessica/Documents/Tex/Jessica Thesis - Current/Chapter4/Chapter4
+Figs/sonarcloud.png>]
+<Chapter4/Chapter4Figs/sourcecloud.png, id=967, 400.49625pt x 387.69844pt>
+File: Chapter4/Chapter4Figs/sourcecloud.png Graphic file (type png)
+
+<use Chapter4/Chapter4Figs/sourcecloud.png>
+Package pdftex.def Info: Chapter4/Chapter4Figs/sourcecloud.png used on input li
+ne 25.
+(pdftex.def)             Requested size: 398.33858pt x 385.63286pt.
+)
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Chapter4/section3.tex
+" [33 <C:/Users/Jessica/Documents/Tex/Jessica Thesis - Current/Chapter4/Chapter
+4Figs/sourcecloud.png>]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ì in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ì in font cmr12!
+)
+Missing character: There is no ‚ in font cmbx12!
+Missing character: There is no Ä in font cmbx12!
+Missing character: There is no ì in font cmbx12!
+
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Chapter4/section4.tex
+")
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Chapter4/section5.tex
+")) [34]
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Conclusions/conclusio
+ns.tex"
+Chapter 6.
+) [35
+
+
+
+]
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Appendix1/appendix1.t
+ex" [36
+
+
+
+
+] [37]) [38]
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Appendix2/appendix2.t
+ex" [39
+
+
+
+]
+Overfull \hbox (34.3034pt too wide) in paragraph at lines 51--51
+[][][] [][]$\OT1/cmtt/m/n/10 http : / / fsteeg . com / 2011 / 09 / 07 / cloudio
+-[]swt-[]based-[]tag-[]cloud-[]visualization-[]for-[]zest/$[][]| 
+ []
+
+[40]) [41]
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Appendix3/appendix3.t
+ex"
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\begingroup' on input line 5.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\<let>-command' on input line 5.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\NAT@ctype' on input line 5.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\z@' on input line 5.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\let' on input line 5.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\let' on input line 5.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\@ifnextchar' on input line 5.
+
+[42
+
+
+
+]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+ [43]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\begingroup' on input line 57.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\<let>-command' on input line 57.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\NAT@ctype' on input line 57.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\z@' on input line 57.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\let' on input line 57.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\let' on input line 57.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\@ifnextchar' on input line 57.
+
+[44] [45]) [46]
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\thesis.bbl"
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\thesis.brf")
+\tf@brf=\write7
+ [47
+
+
+]
+[48] [49] [50] [51] [52])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 113.
+ [53]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 113.
+
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\thesis.aux"
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Dedication/dedication
+.aux")
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Acknowledgement/ackno
+wledgement.aux")
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Abstract/abstract.aux
+")
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Introduction/introduc
+tion.aux")
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Chapter1/chapter1quot
+e.aux")
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Chapter1/chapter1.aux
+")
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Chapter2/chapter2.aux
+")
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Chapter3/chapter3.aux
+")
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Chapter4/chapter4.aux
+")
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Conclusions/conclusio
+ns.aux")
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Appendix1/appendix1.a
+ux")
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Appendix2/appendix2.a
+ux")
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Appendix3/appendix3.a
+ux"))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 113.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 113.
+Package rerunfilecheck Info: File `thesis.out' has not changed.
+(rerunfilecheck)             Checksum: FDC405F31638A3448929EB40F0777138;6891.
+Package rerunfilecheck Info: File `thesis.brf' has not changed.
+(rerunfilecheck)             Checksum: 5EA244B91AAD5F4428ABA8AA71D2DA97;4718.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 113.
+ ) 
+Here is how much of TeX's memory you used:
+ 7635 strings out of 494049
+ 119018 string characters out of 3146060
+ 195482 words of memory out of 3000000
+ 10369 multiletter control sequences out of 15000+200000
+ 17115 words of font info for 59 fonts, out of 3000000 for 9000
+ 715 hyphenation exceptions out of 8191
+ 39i,12n,50p,1750b,539s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Progra
+m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program 
+Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Fi
+les (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program File
+s (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files (
+x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files (x86
+)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files (x86)/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files (x86)/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files (x86)/MiKTeX 2
+.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Program Files (x86)/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmssi10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/font
+s/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/
+type1/public/amsfonts/cm/cmtt10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/ty
+pe1/public/amsfonts/cm/cmtt12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type
+1/urw/bookman/ubkd8a.pfb>
+Output written on thesis.pdf (63 pages, 1482889 bytes).
+PDF statistics:
+ 1344 PDF objects out of 1440 (max. 8388607)
+ 261 named destinations out of 1000 (max. 500000)
+ 769 words of extra memory for PDF output out of 10000 (max. 10000000)
+

@@ -1,1 +1,1 @@
-initial commit - original tex template CUEDThesisPSnPDF
+CUEDThesisPSnPDF changed to my support masters thesis template
