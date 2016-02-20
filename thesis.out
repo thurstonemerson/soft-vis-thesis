@@ -22,70 +22,76 @@
 \BOOKMARK [1][]{section.2.2}{2.2 Tag Clouds}{chapter.2}% 22
 \BOOKMARK [2][]{subsection.2.2.1}{2.2.1 History}{section.2.2}% 23
 \BOOKMARK [2][]{subsection.2.2.2}{2.2.2 Related Work - Extensions and Evaluations}{section.2.2}% 24
-\BOOKMARK [0][]{chapter.3}{3 Considerations in Tag Cloud Visualisation}{}% 25
-\BOOKMARK [1][]{section.3.1}{3.1 Tag clouds in information visualisation}{chapter.3}% 26
-\BOOKMARK [1][]{section.3.2}{3.2 Taxonomy of tag cloud features}{chapter.3}% 27
-\BOOKMARK [2][]{subsection.3.2.1}{3.2.1 Font family}{section.3.2}% 28
-\BOOKMARK [2][]{subsection.3.2.2}{3.2.2 Font size}{section.3.2}% 29
-\BOOKMARK [2][]{subsection.3.2.3}{3.2.3 Font style}{section.3.2}% 30
-\BOOKMARK [2][]{subsection.3.2.4}{3.2.4 Font weight}{section.3.2}% 31
-\BOOKMARK [2][]{subsection.3.2.5}{3.2.5 Colour distribution}{section.3.2}% 32
-\BOOKMARK [2][]{subsection.3.2.6}{3.2.6 Intensity contrast or saturation}{section.3.2}% 33
-\BOOKMARK [2][]{subsection.3.2.7}{3.2.7 Colour}{section.3.2}% 34
-\BOOKMARK [2][]{subsection.3.2.8}{3.2.8 Decoration}{section.3.2}% 35
-\BOOKMARK [2][]{subsection.3.2.9}{3.2.9 Other properties which can''t reasonably be mapped}{section.3.2}% 36
-\BOOKMARK [1][]{section.3.3}{3.3 Factors influencing visual perception}{chapter.3}% 37
-\BOOKMARK [2][]{subsection.3.3.1}{3.3.1 Order of importance}{section.3.3}% 38
-\BOOKMARK [2][]{subsection.3.3.2}{3.3.2 Inter-dependencies of properties}{section.3.3}% 39
-\BOOKMARK [2][]{subsection.3.3.3}{3.3.3 Literature review}{section.3.3}% 40
-\BOOKMARK [1][]{section.3.4}{3.4 Usability of the tag cloud representation}{chapter.3}% 41
-\BOOKMARK [1][]{section.3.5}{3.5 Task-oriented analysis}{chapter.3}% 42
-\BOOKMARK [2][]{subsection.3.5.1}{3.5.1 Searching}{section.3.5}% 43
-\BOOKMARK [2][]{subsection.3.5.2}{3.5.2 Browsing}{section.3.5}% 44
-\BOOKMARK [2][]{subsection.3.5.3}{3.5.3 Gisting}{section.3.5}% 45
-\BOOKMARK [2][]{subsection.3.5.4}{3.5.4 Information Recognition/Matching}{section.3.5}% 46
-\BOOKMARK [1][]{section.3.6}{3.6 Evaluation}{chapter.3}% 47
-\BOOKMARK [0][]{chapter.4}{4 Visualising Software Quality}{}% 48
-\BOOKMARK [1][]{section.4.1}{4.1 Measuring quality}{chapter.4}% 49
-\BOOKMARK [1][]{section.4.2}{4.2 Visualisation process}{chapter.4}% 50
-\BOOKMARK [1][]{section.4.3}{4.3 Techniques used in visualising software}{chapter.4}% 51
-\BOOKMARK [1][]{section.4.4}{4.4 Characterising a software dataset}{chapter.4}% 52
-\BOOKMARK [1][]{section.4.5}{4.5 Case studies}{chapter.4}% 53
-\BOOKMARK [0][]{chapter.5}{5 Evaluating Tag Clouds in Software Engineering}{}% 54
-\BOOKMARK [1][]{section.5.1}{5.1 Tag clouds as a visualisation technique}{chapter.5}% 55
-\BOOKMARK [1][]{section.5.2}{5.2 Existing research and real world examples}{chapter.5}% 56
-\BOOKMARK [2][]{subsection.5.2.1}{5.2.1 Existing Tools}{section.5.2}% 57
-\BOOKMARK [3][]{subsubsection.5.2.1.1}{5.2.1.1 Sonar}{subsection.5.2.1}% 58
-\BOOKMARK [3][]{subsubsection.5.2.1.2}{5.2.1.2 Sourcecloud}{subsection.5.2.1}% 59
-\BOOKMARK [1][]{section.5.3}{5.3 Design of a tag cloud metaphor for software engineering}{chapter.5}% 60
-\BOOKMARK [1][]{section.5.4}{5.4 Interactivity – high level user needs}{chapter.5}% 61
-\BOOKMARK [1][]{section.5.5}{5.5 Evaluation}{chapter.5}% 62
-\BOOKMARK [0][]{chapter.6}{6 Conclusions}{}% 63
-\BOOKMARK [0][]{appendix*.4}{Appendix A}{}% 64
-\BOOKMARK [1][]{section..1}{A.1 Tools for Obtaining Software Metric Data}{appendix*.4}% 65
-\BOOKMARK [2][]{subsection..1.1}{A.1.1 Eclipse Metrics Plugin}{section..1}% 66
-\BOOKMARK [2][]{subsection..1.2}{A.1.2 Software Analysis Platform}{section..1}% 67
-\BOOKMARK [2][]{subsection..1.3}{A.1.3 Metric frameworks/tools}{section..1}% 68
-\BOOKMARK [1][]{section..2}{A.2 Metric Output from Software Analysis Tools}{appendix*.4}% 69
-\BOOKMARK [0][]{appendix*.5}{Appendix B}{}% 70
-\BOOKMARK [1][]{section..3}{B.3 Tools for Creation of Tag Clouds}{appendix*.5}% 71
-\BOOKMARK [2][]{subsection..3.1}{B.3.1 Web Tools}{section..3}% 72
-\BOOKMARK [2][]{subsection..3.2}{B.3.2 Processing Libraries}{section..3}% 73
-\BOOKMARK [2][]{subsection..3.3}{B.3.3 Javascript Libraries}{section..3}% 74
-\BOOKMARK [2][]{subsection..3.4}{B.3.4 Java Libraries}{section..3}% 75
-\BOOKMARK [2][]{subsection..3.5}{B.3.5 Google Web Toolkit Visualisation}{section..3}% 76
-\BOOKMARK [1][]{section..4}{B.4 Visualisation Libraries}{appendix*.5}% 77
-\BOOKMARK [0][]{appendix*.6}{Appendix C}{}% 78
-\BOOKMARK [1][]{section..5}{C.5 lohmann09}{appendix*.6}% 79
-\BOOKMARK [2][]{subsection..5.1}{C.5.1 Results}{section..5}% 80
-\BOOKMARK [2][]{subsection..5.2}{C.5.2 User Tasks}{section..5}% 81
-\BOOKMARK [2][]{subsection..5.3}{C.5.3 Tag Cloud Layout}{section..5}% 82
-\BOOKMARK [2][]{subsection..5.4}{C.5.4 Tag Cloud Generation}{section..5}% 83
-\BOOKMARK [2][]{subsection..5.5}{C.5.5 Procedure}{section..5}% 84
-\BOOKMARK [1][]{section..6}{C.6 schrammel09b}{appendix*.6}% 85
-\BOOKMARK [2][]{subsection..6.1}{C.6.1 Results}{section..6}% 86
-\BOOKMARK [2][]{subsection..6.2}{C.6.2 User Tasks}{section..6}% 87
-\BOOKMARK [2][]{subsection..6.3}{C.6.3 Tag Cloud Layout}{section..6}% 88
-\BOOKMARK [2][]{subsection..6.4}{C.6.4 Tag Cloud Generation}{section..6}% 89
-\BOOKMARK [2][]{subsection..6.5}{C.6.5 Procedure}{section..6}% 90
-\BOOKMARK [0][]{appendix*.7}{References}{}% 91
+\BOOKMARK [0][]{chapter.3}{3 Existing Tag Cloud Implementations in Software Visualisation}{}% 25
+\BOOKMARK [1][]{section.3.1}{3.1 Related Work}{chapter.3}% 26
+\BOOKMARK [1][]{section.3.2}{3.2 Existing Tools}{chapter.3}% 27
+\BOOKMARK [2][]{subsection.3.2.1}{3.2.1 Sonar}{section.3.2}% 28
+\BOOKMARK [2][]{subsection.3.2.2}{3.2.2 Sonar Extension using Javascript Library}{section.3.2}% 29
+\BOOKMARK [2][]{subsection.3.2.3}{3.2.3 Sourcecloud}{section.3.2}% 30
+\BOOKMARK [2][]{subsection.3.2.4}{3.2.4 Taggle}{section.3.2}% 31
+\BOOKMARK [0][]{chapter.4}{4 Visualisation of Tag Clouds}{}% 32
+\BOOKMARK [0][]{chapter.5}{5 Addressing Challenges of Tag Clouds in Software Engineering}{}% 33
+\BOOKMARK [1][]{section.5.1}{5.1 Tag Clouds vs Other Visualisations}{chapter.5}% 34
+\BOOKMARK [2][]{subsection.5.1.1}{5.1.1 Parallel Co-ordinate Plots}{section.5.1}% 35
+\BOOKMARK [2][]{subsection.5.1.2}{5.1.2 Treemap}{section.5.1}% 36
+\BOOKMARK [2][]{subsection.5.1.3}{5.1.3 Kiviat Chart}{section.5.1}% 37
+\BOOKMARK [2][]{subsection.5.1.4}{5.1.4 Scatterplot Matrix}{section.5.1}% 38
+\BOOKMARK [1][]{section.5.2}{5.2 Number of Variables}{chapter.5}% 39
+\BOOKMARK [1][]{section.5.3}{5.3 Scale}{chapter.5}% 40
+\BOOKMARK [1][]{section.5.4}{5.4 Distribution}{chapter.5}% 41
+\BOOKMARK [1][]{section.5.5}{5.5 Outliers}{chapter.5}% 42
+\BOOKMARK [1][]{section.5.6}{5.6 Long Identifiers}{chapter.5}% 43
+\BOOKMARK [1][]{section.5.7}{5.7 Perspective}{chapter.5}% 44
+\BOOKMARK [1][]{section.5.8}{5.8 Interaction}{chapter.5}% 45
+\BOOKMARK [1][]{section.5.9}{5.9 Advantages of Tag Clouds}{chapter.5}% 46
+\BOOKMARK [0][]{chapter.6}{6 Data Selection}{}% 47
+\BOOKMARK [1][]{section.6.1}{6.1 Aspectj}{chapter.6}% 48
+\BOOKMARK [1][]{section.6.2}{6.2 EclipseSDK}{chapter.6}% 49
+\BOOKMARK [0][]{chapter.7}{7 Empirical Feasibility Study}{}% 50
+\BOOKMARK [1][]{section.7.1}{7.1 Apparatus and Materials}{chapter.7}% 51
+\BOOKMARK [1][]{section.7.2}{7.2 Participants}{chapter.7}% 52
+\BOOKMARK [1][]{section.7.3}{7.3 Procedure}{chapter.7}% 53
+\BOOKMARK [1][]{section.7.4}{7.4 User Tasks}{chapter.7}% 54
+\BOOKMARK [2][]{subsection.7.4.1}{7.4.1 Analysis}{section.7.4}% 55
+\BOOKMARK [2][]{subsection.7.4.2}{7.4.2 Monitoring/Trends}{section.7.4}% 56
+\BOOKMARK [2][]{subsection.7.4.3}{7.4.3 Query}{section.7.4}% 57
+\BOOKMARK [2][]{subsection.7.4.4}{7.4.4 Navigation}{section.7.4}% 58
+\BOOKMARK [1][]{section.7.5}{7.5 Measurement of Problems}{chapter.7}% 59
+\BOOKMARK [1][]{section.7.6}{7.6 Design and Data analysis}{chapter.7}% 60
+\BOOKMARK [1][]{section.7.7}{7.7 Results}{chapter.7}% 61
+\BOOKMARK [1][]{section.7.8}{7.8 Conclusions}{chapter.7}% 62
+\BOOKMARK [0][]{chapter.8}{8 Empirical Experiment Design}{}% 63
+\BOOKMARK [1][]{section.8.1}{8.1 Tasks}{chapter.8}% 64
+\BOOKMARK [1][]{section.8.2}{8.2 Datasets}{chapter.8}% 65
+\BOOKMARK [1][]{section.8.3}{8.3 Statistics}{chapter.8}% 66
+\BOOKMARK [1][]{section.8.4}{8.4 Tests}{chapter.8}% 67
+\BOOKMARK [1][]{section.8.5}{8.5 Threats to Validity}{chapter.8}% 68
+\BOOKMARK [0][]{chapter.9}{9 Conclusions}{}% 69
+\BOOKMARK [0][]{appendix*.4}{Appendix A}{}% 70
+\BOOKMARK [1][]{section..1}{A.1 Tools for Obtaining Software Metric Data}{appendix*.4}% 71
+\BOOKMARK [2][]{subsection..1.1}{A.1.1 Eclipse Metrics Plugin}{section..1}% 72
+\BOOKMARK [2][]{subsection..1.2}{A.1.2 Software Analysis Platform}{section..1}% 73
+\BOOKMARK [2][]{subsection..1.3}{A.1.3 Metric frameworks/tools}{section..1}% 74
+\BOOKMARK [1][]{section..2}{A.2 Metric Output from Software Analysis Tools}{appendix*.4}% 75
+\BOOKMARK [0][]{appendix*.5}{Appendix B}{}% 76
+\BOOKMARK [1][]{section..3}{B.3 Tools for Creation of Tag Clouds}{appendix*.5}% 77
+\BOOKMARK [2][]{subsection..3.1}{B.3.1 Web Tools}{section..3}% 78
+\BOOKMARK [2][]{subsection..3.2}{B.3.2 Processing Libraries}{section..3}% 79
+\BOOKMARK [2][]{subsection..3.3}{B.3.3 Javascript Libraries}{section..3}% 80
+\BOOKMARK [2][]{subsection..3.4}{B.3.4 Java Libraries}{section..3}% 81
+\BOOKMARK [2][]{subsection..3.5}{B.3.5 Google Web Toolkit Visualisation}{section..3}% 82
+\BOOKMARK [1][]{section..4}{B.4 Visualisation Libraries}{appendix*.5}% 83
+\BOOKMARK [0][]{appendix*.6}{Appendix C}{}% 84
+\BOOKMARK [1][]{section..5}{C.5 lohmann09}{appendix*.6}% 85
+\BOOKMARK [2][]{subsection..5.1}{C.5.1 Results}{section..5}% 86
+\BOOKMARK [2][]{subsection..5.2}{C.5.2 User Tasks}{section..5}% 87
+\BOOKMARK [2][]{subsection..5.3}{C.5.3 Tag Cloud Layout}{section..5}% 88
+\BOOKMARK [2][]{subsection..5.4}{C.5.4 Tag Cloud Generation}{section..5}% 89
+\BOOKMARK [2][]{subsection..5.5}{C.5.5 Procedure}{section..5}% 90
+\BOOKMARK [1][]{section..6}{C.6 schrammel09b}{appendix*.6}% 91
+\BOOKMARK [2][]{subsection..6.1}{C.6.1 Results}{section..6}% 92
+\BOOKMARK [2][]{subsection..6.2}{C.6.2 User Tasks}{section..6}% 93
+\BOOKMARK [2][]{subsection..6.3}{C.6.3 Tag Cloud Layout}{section..6}% 94
+\BOOKMARK [2][]{subsection..6.4}{C.6.4 Tag Cloud Generation}{section..6}% 95
+\BOOKMARK [2][]{subsection..6.5}{C.6.5 Procedure}{section..6}% 96
+\BOOKMARK [0][]{appendix*.7}{References}{}% 97

@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.4.5)  30 JUL 2012 14:38
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.4.5)  29 JUL 2012 11:03
 entering extended mode
-**C:/Users/Jessica/Documents/Tex/Jessica*Thesis*-*Current/thesis.tex
-("C:/Users/Jessica/Documents/Tex/Jessica Thesis - Current/thesis.tex"
+**C:/Users/Jessica/Documents/Tex/Jessica*Thesis/thesis.tex
+("C:/Users/Jessica/Documents/Tex/Jessica Thesis/thesis.tex"
 LaTeX2e <2009/09/24>
 Babel <v3.8l> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -13,9 +13,7 @@ an, ngerman-x-2009-06-19, nynorsk, oriya, panjabi, pinyin, polish, portuguese,
 romanian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swis
 sgerman, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, u
 senglishmax, welsh, loaded.
-
-("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Classes/CUEDthesisPSn
-PDF.cls"
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis\Classes/CUEDthesisPSnPDF.cls"
 
 LaTeX Warning: You have requested document class `Classes/CUEDthesisPSnPDF',
                but the document class provides `CUEDthesisPSnPDF'.
@@ -307,41 +305,29 @@ Package graphics Info: Driver file: pdftex.def on input line 91.
 Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
 less on input line 166.
 
-)
-("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\StyleFiles/watermark.
-sty"
+) ("C:\Users\Jessica\Documents\Tex\Jessica Thesis\StyleFiles/watermark.sty"
 
 LaTeX Warning: You have requested package `StyleFiles/watermark',
                but the package provides `watermark'.
 
 Package: watermark 2002/01/29 v1.00 Watermarks (NCC)
-) ("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\thesis.aux"
-("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Dedication/dedication
-.aux")
-("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Acknowledgement/ackno
-wledgement.aux")
-("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Abstract/abstract.aux
-")
-("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Introduction/introduc
-tion.aux")
-("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Chapter1/chapter1quot
-e.aux")
-("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Chapter1/chapter1.aux
-")
-("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Chapter2/chapter2.aux
-")
-("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Chapter3/chapter3.aux
-")
-("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Chapter4/chapter4.aux
-")
-("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Conclusions/conclusio
-ns.aux")
-("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Appendix1/appendix1.a
-ux")
-("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Appendix2/appendix2.a
-ux")
-("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Appendix3/appendix3.a
-ux"))
+) ("C:\Users\Jessica\Documents\Tex\Jessica Thesis\thesis.aux"
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis\Dedication/dedication.aux")
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis\Acknowledgement/acknowledgement
+.aux") ("C:\Users\Jessica\Documents\Tex\Jessica Thesis\Abstract/abstract.aux")
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis\Introduction/introduction.aux")
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis\Chapter1/chapter1quote.aux")
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis\Chapter1/chapter1.aux")
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis\Chapter2/chapter2.aux")
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis\Chapter3/chapter3.aux")
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis\Chapter4/chapter4.aux")
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis\Chapter5/chapter5.aux")
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis\Chapter6/chapter6.aux")
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis\Chapter7/chapter7.aux")
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis\Conclusions/conclusions.aux")
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis\Appendix1/appendix1.aux")
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis\Appendix2/appendix2.aux")
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis\Appendix3/appendix3.aux"))
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 53.
 LaTeX Font Info:    ... okay on input line 53.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 53.
@@ -356,7 +342,8 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 53.
 LaTeX Font Info:    ... okay on input line 53.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 53.
 LaTeX Font Info:    ... okay on input line 53.
- ("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count103
 \scratchdimen=\dimen112
@@ -385,11 +372,11 @@ LaTeX Info: Redefining \ref on input line 53.
 LaTeX Info: Redefining \pageref on input line 53.
 LaTeX Info: Redefining \nameref on input line 53.
 
-("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\thesis.out")
-("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\thesis.out")
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis\thesis.out")
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis\thesis.out")
 \@outlinefile=\write4
 
-<ThesisFigs/UCLogo.pdf, id=367, 169.63374pt x 146.5475pt>
+<ThesisFigs/UCLogo.pdf, id=391, 169.63374pt x 146.5475pt>
 File: ThesisFigs/UCLogo.pdf Graphic file (type pdf)
 
 <use ThesisFigs/UCLogo.pdf>
@@ -398,19 +385,17 @@ Package pdftex.def Info: ThesisFigs/UCLogo.pdf used on input line 71.
  [0
 
 {C:/Users/Jessica/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/
-Jessica/Documents/Tex/Jessica Thesis - Current/ThesisFigs/UCLogo.pdf>]
-("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Dedication/dedication
-.tex" [1
+Jessica/Documents/Tex/Jessica Thesis/ThesisFigs/UCLogo.pdf>]
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis\Dedication/dedication.tex"
+[1
 
 
 ])
-("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Acknowledgement/ackno
-wledgement.tex" [2
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis\Acknowledgement/acknowledgement
+.tex" [2
 
 
-])
-("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Abstract/abstract.tex
-" [3
+]) ("C:\Users\Jessica\Documents\Tex\Jessica Thesis\Abstract/abstract.tex" [3
 
 
 ])
@@ -423,7 +408,7 @@ LaTeX Font Info:    Font shape `T1/pbk/b/n' in size <24.88> not available
 LaTeX Font Info:    Font shape `T1/pbk/b/n' in size <100> not available
 (Font)              Font shape `T1/pbk/db/n' tried instead on input line 83.
 
-("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\thesis.toc"
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis\thesis.toc"
 LaTeX Font Info:    Try loading font information for U+msa on input line 6.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
@@ -437,24 +422,17 @@ File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 \FN@pp@footnotehinttrue 
 
 
-] [5]
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ì in font cmr12!
- [6])
+] [5] [6])
 \tf@toc=\write5
- [7]
-("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\thesis.lof")
+ [7] ("C:\Users\Jessica\Documents\Tex\Jessica Thesis\thesis.lof")
 \tf@lof=\write6
 
-("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\thesis.nls" [8
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis\thesis.nls" [8
 
-])
-[9
+]) [9
 
 ]
-("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Introduction/introduc
-tion.tex"
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis\Introduction/introduction.tex"
 Chapter 1.
 
 Package natbib Warning: Multiple citation on page 1: same authors and year
@@ -473,11 +451,8 @@ File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 21.
  [2] [3])
-[4]
-("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Chapter1/chapter1quot
-e.tex")
-("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Chapter1/chapter1.tex
-"
+[4] ("C:\Users\Jessica\Documents\Tex\Jessica Thesis\Chapter1/chapter1quote.tex"
+) ("C:\Users\Jessica\Documents\Tex\Jessica Thesis\Chapter1/chapter1.tex"
 Chapter 2.
 [5
 
@@ -486,34 +461,34 @@ Chapter 2.
 
 
 ] [6] [7] [8] [9] [10] [11] [12] [13]
-<Chapter1/Chapter1Figs/londontube.png, id=728, 602.25pt x 416.55624pt>
+<Chapter1/Chapter1Figs/londontube.png, id=762, 602.25pt x 416.55624pt>
 File: Chapter1/Chapter1Figs/londontube.png Graphic file (type png)
 
 <use Chapter1/Chapter1Figs/londontube.png>
 Package pdftex.def Info: Chapter1/Chapter1Figs/londontube.png used on input lin
 e 130.
 (pdftex.def)             Requested size: 398.33858pt x 275.52544pt.
- [14 <C:/Users/Jessica/Documents/Tex/Jessica Thesis - Current/Chapter1/Chapter1
-Figs/londontube.png>]
-<Chapter1/Chapter1Figs/treemap.png, id=739, 216.05719pt x 289.08pt>
+ [14 <C:/Users/Jessica/Documents/Tex/Jessica Thesis/Chapter1/Chapter1Figs/londo
+ntube.png>]
+<Chapter1/Chapter1Figs/treemap.png, id=773, 216.05719pt x 289.08pt>
 File: Chapter1/Chapter1Figs/treemap.png Graphic file (type png)
 
 <use Chapter1/Chapter1Figs/treemap.png>
 Package pdftex.def Info: Chapter1/Chapter1Figs/treemap.png used on input line 1
 52.
 (pdftex.def)             Requested size: 170.71652pt x 228.42361pt.
- [15 <C:/Users/Jessica/Documents/Tex/Jessica Thesis - Current/Chapter1/Chapter1
-Figs/treemap.png>]
-<Chapter1/Chapter1Figs/tagcrowd.png, id=758, 565.36218pt x 212.29312pt>
+ [15 <C:/Users/Jessica/Documents/Tex/Jessica Thesis/Chapter1/Chapter1Figs/treem
+ap.png>]
+<Chapter1/Chapter1Figs/tagcrowd.png, id=792, 565.36218pt x 212.29312pt>
 File: Chapter1/Chapter1Figs/tagcrowd.png Graphic file (type png)
 
 <use Chapter1/Chapter1Figs/tagcrowd.png>
 Package pdftex.def Info: Chapter1/Chapter1Figs/tagcrowd.png used on input line 
 168.
 (pdftex.def)             Requested size: 398.33858pt x 149.57921pt.
- [16 <C:/Users/Jessica/Documents/Tex/Jessica Thesis - Current/Chapter1/Chapter1
-Figs/tagcrowd.png>]
-<Chapter1/Chapter1Figs/thesistagcloud.png, id=776, 584.1825pt x 380.17032pt>
+ [16 <C:/Users/Jessica/Documents/Tex/Jessica Thesis/Chapter1/Chapter1Figs/tagcr
+owd.png>]
+<Chapter1/Chapter1Figs/thesistagcloud.png, id=810, 584.1825pt x 380.17032pt>
 File: Chapter1/Chapter1Figs/thesistagcloud.png Graphic file (type png)
 
 <use Chapter1/Chapter1Figs/thesistagcloud.png>
@@ -524,143 +499,124 @@ Package pdftex.def Info: Chapter1/Chapter1Figs/thesistagcloud.png used on input
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[17] [18 <C:/Users/Jessica/Documents/Tex/Jessica Thesis - Current/Chapter1/Chap
-ter1Figs/thesistagcloud.png>] [19]
-<Chapter1/Chapter1Figs/uml.png, id=884, 206.27063pt x 163.3603pt>
+[17] [18 <C:/Users/Jessica/Documents/Tex/Jessica Thesis/Chapter1/Chapter1Figs/t
+hesistagcloud.png>] [19]
+<Chapter1/Chapter1Figs/uml.png, id=918, 206.27063pt x 163.3603pt>
 File: Chapter1/Chapter1Figs/uml.png Graphic file (type png)
 
 <use Chapter1/Chapter1Figs/uml.png>
 Package pdftex.def Info: Chapter1/Chapter1Figs/uml.png used on input line 212.
 (pdftex.def)             Requested size: 170.71652pt x 135.20512pt.
-) [20 <C:/Users/Jessica/Documents/Tex/Jessica Thesis - Current/Chapter1/Chapter
-1Figs/uml.png>]
-("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Chapter2/chapter2.tex
-"
+) [20 <C:/Users/Jessica/Documents/Tex/Jessica Thesis/Chapter1/Chapter1Figs/uml.
+png>]
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis\Chapter2/chapter2.tex"
 Chapter 3.
-("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Chapter2/section1.tex
-" [21
+[21
 
 
 
-])
-("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Chapter2/section2.tex
-" [22])
-("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Chapter2/section3.tex
-" [23])
-("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Chapter2/section4.tex
-")
-("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Chapter2/section5.tex
-" [24]) [25]
-("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Chapter2/section6.tex
-")) [26]
-("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Chapter3/chapter3.tex
-"
-Chapter 4.
-("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Chapter3/section1.tex
-"
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ì in font cmr12!
- [27
+]
+<Chapter2/Chapter2Figs/sonarcloud.png, id=941, 1020.06094pt x 503.63156pt>
+File: Chapter2/Chapter2Figs/sonarcloud.png Graphic file (type png)
 
-
-
-])
-("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Chapter3/section2.tex
-")
-("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Chapter3/section3.tex
-"
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
-)
-("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Chapter3/section4.tex
-"
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ì in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ì in font cmr12!
- [28]
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ì in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ì in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ì in font cmr12!
-)
-("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Chapter3/section5.tex
-")) [29]
-("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Chapter4/chapter4.tex
-"
-Chapter 5.
-("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Chapter4/section1.tex
-" [30
-
-
-
-])
-("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Chapter4/section2.tex
-" [31]
-<Chapter4/Chapter4Figs/sonarcloud.png, id=958, 1020.06094pt x 503.63156pt>
-File: Chapter4/Chapter4Figs/sonarcloud.png Graphic file (type png)
-
-<use Chapter4/Chapter4Figs/sonarcloud.png>
-Package pdftex.def Info: Chapter4/Chapter4Figs/sonarcloud.png used on input lin
-e 14.
+<use Chapter2/Chapter2Figs/sonarcloud.png>
+Package pdftex.def Info: Chapter2/Chapter2Figs/sonarcloud.png used on input lin
+e 22.
 (pdftex.def)             Requested size: 398.33858pt x 196.66911pt.
- [32 <C:/Users/Jessica/Documents/Tex/Jessica Thesis - Current/Chapter4/Chapter4
-Figs/sonarcloud.png>]
-<Chapter4/Chapter4Figs/sourcecloud.png, id=967, 400.49625pt x 387.69844pt>
-File: Chapter4/Chapter4Figs/sourcecloud.png Graphic file (type png)
 
-<use Chapter4/Chapter4Figs/sourcecloud.png>
-Package pdftex.def Info: Chapter4/Chapter4Figs/sourcecloud.png used on input li
-ne 25.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[22]
+<Chapter2/Chapter2Figs/sonarrotatingcloud.png, id=952, 709.14937pt x 362.85562p
+t>
+File: Chapter2/Chapter2Figs/sonarrotatingcloud.png Graphic file (type png)
+ <use Chapter2/Chapter2Figs/sonarrotatingcloud.png>
+Package pdftex.def Info: Chapter2/Chapter2Figs/sonarrotatingcloud.png used on i
+nput line 33.
+(pdftex.def)             Requested size: 398.33858pt x 203.82341pt.
+ [23 <C:/Users/Jessica/Documents/Tex/Jessica Thesis/Chapter2/Chapter2Figs/sonar
+cloud.png> <C:/Users/Jessica/Documents/Tex/Jessica Thesis/Chapter2/Chapter2Figs
+/sonarrotatingcloud.png>]
+<Chapter2/Chapter2Figs/sourcecloud.png, id=960, 400.49625pt x 387.69844pt>
+File: Chapter2/Chapter2Figs/sourcecloud.png Graphic file (type png)
+
+<use Chapter2/Chapter2Figs/sourcecloud.png>
+Package pdftex.def Info: Chapter2/Chapter2Figs/sourcecloud.png used on input li
+ne 45.
 (pdftex.def)             Requested size: 398.33858pt x 385.63286pt.
-)
-("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Chapter4/section3.tex
-" [33 <C:/Users/Jessica/Documents/Tex/Jessica Thesis - Current/Chapter4/Chapter
-4Figs/sourcecloud.png>]
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ì in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ì in font cmr12!
-)
-Missing character: There is no ‚ in font cmbx12!
-Missing character: There is no Ä in font cmbx12!
-Missing character: There is no ì in font cmbx12!
 
-("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Chapter4/section4.tex
-")
-("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Chapter4/section5.tex
-")) [34]
-("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Conclusions/conclusio
-ns.tex"
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[24] [25 <C:/Users/Jessica/Documents/Tex/Jessica Thesis/Chapter2/Chapter2Figs/s
+ourcecloud.png>]
+<Chapter2/Chapter2Figs/aspectjtaggle.png, id=976, 614.295pt x 508.14844pt>
+File: Chapter2/Chapter2Figs/aspectjtaggle.png Graphic file (type png)
+
+<use Chapter2/Chapter2Figs/aspectjtaggle.png>
+Package pdftex.def Info: Chapter2/Chapter2Figs/aspectjtaggle.png used on input 
+line 80.
+(pdftex.def)             Requested size: 398.33858pt x 329.50943pt.
+) [26 <C:/Users/Jessica/Documents/Tex/Jessica Thesis/Chapter2/Chapter2Figs/aspe
+ctjtaggle.png>]
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis\Chapter3/chapter3.tex"
+Chapter 4.
+) [27
+
+
+
+] ("C:\Users\Jessica\Documents\Tex\Jessica Thesis\Chapter4/chapter4.tex"
+Chapter 5.
+[28
+
+
+
+] [29]) [30]
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis\Chapter5/chapter5.tex"
 Chapter 6.
+) [31
+
+
+
+] ("C:\Users\Jessica\Documents\Tex\Jessica Thesis\Chapter6/chapter6.tex"
+Chapter 7.
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ì in font cmr12!
+[32
+
+
+
+]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ì in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+ [33]) [34]
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis\Chapter7/chapter7.tex"
+Chapter 8.
 ) [35
 
 
 
 ]
-("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Appendix1/appendix1.t
-ex" [36
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis\Conclusions/conclusions.tex"
+Chapter 9.
+) [36
+
+
+
+] ("C:\Users\Jessica\Documents\Tex\Jessica Thesis\Appendix1/appendix1.tex" [37
 
 
 
 
-] [37]) [38]
-("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Appendix2/appendix2.t
-ex" [39
+] [38]) [39]
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis\Appendix2/appendix2.tex"
+[40
 
 
 
@@ -670,9 +626,8 @@ Overfull \hbox (34.3034pt too wide) in paragraph at lines 51--51
 -[]swt-[]based-[]tag-[]cloud-[]visualization-[]for-[]zest/$[][]| 
  []
 
-[40]) [41]
-("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Appendix3/appendix3.t
-ex"
+[41]) [42]
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis\Appendix3/appendix3.tex"
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\begingroup' on input line 5.
@@ -701,7 +656,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\@ifnextchar' on input line 5.
 
-[42
+[43
 
 
 
@@ -709,7 +664,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
- [43]
+ [44]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\begingroup' on input line 57.
@@ -738,62 +693,51 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\@ifnextchar' on input line 57.
 
-[44] [45]) [46]
-("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\thesis.bbl"
-("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\thesis.brf")
+[45] [46]) [47] ("C:\Users\Jessica\Documents\Tex\Jessica Thesis\thesis.bbl"
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis\thesis.brf")
 \tf@brf=\write7
- [47
+ [48
 
 
-]
-[48] [49] [50] [51] [52])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 113.
- [53]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 113.
+] [49] [50]
+[51] [52] [53] [54])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 116.
+ [55]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 116.
 
-("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\thesis.aux"
-("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Dedication/dedication
-.aux")
-("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Acknowledgement/ackno
-wledgement.aux")
-("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Abstract/abstract.aux
-")
-("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Introduction/introduc
-tion.aux")
-("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Chapter1/chapter1quot
-e.aux")
-("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Chapter1/chapter1.aux
-")
-("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Chapter2/chapter2.aux
-")
-("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Chapter3/chapter3.aux
-")
-("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Chapter4/chapter4.aux
-")
-("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Conclusions/conclusio
-ns.aux")
-("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Appendix1/appendix1.a
-ux")
-("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Appendix2/appendix2.a
-ux")
-("C:\Users\Jessica\Documents\Tex\Jessica Thesis - Current\Appendix3/appendix3.a
-ux"))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 113.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 113.
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis\thesis.aux"
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis\Dedication/dedication.aux")
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis\Acknowledgement/acknowledgement
+.aux") ("C:\Users\Jessica\Documents\Tex\Jessica Thesis\Abstract/abstract.aux")
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis\Introduction/introduction.aux")
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis\Chapter1/chapter1quote.aux")
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis\Chapter1/chapter1.aux")
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis\Chapter2/chapter2.aux")
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis\Chapter3/chapter3.aux")
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis\Chapter4/chapter4.aux")
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis\Chapter5/chapter5.aux")
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis\Chapter6/chapter6.aux")
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis\Chapter7/chapter7.aux")
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis\Conclusions/conclusions.aux")
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis\Appendix1/appendix1.aux")
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis\Appendix2/appendix2.aux")
+("C:\Users\Jessica\Documents\Tex\Jessica Thesis\Appendix3/appendix3.aux"))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 116.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 116.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: FDC405F31638A3448929EB40F0777138;6891.
+(rerunfilecheck)             Checksum: 2DA4CEF612CEE956A4A50B008B29EEBE;6888.
 Package rerunfilecheck Info: File `thesis.brf' has not changed.
-(rerunfilecheck)             Checksum: 5EA244B91AAD5F4428ABA8AA71D2DA97;4718.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 113.
+(rerunfilecheck)             Checksum: BD8384E09815B5A67CF80B203A29B68B;4950.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 116.
  ) 
 Here is how much of TeX's memory you used:
- 7635 strings out of 494049
- 119018 string characters out of 3146060
- 195482 words of memory out of 3000000
- 10369 multiletter control sequences out of 15000+200000
+ 7685 strings out of 494049
+ 117720 string characters out of 3146060
+ 195911 words of memory out of 3000000
+ 10407 multiletter control sequences out of 15000+200000
  17115 words of font info for 59 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
- 39i,12n,50p,1750b,539s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 39i,12n,50p,1740b,553s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Progra
 m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program 
 Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Fi
@@ -811,9 +755,9 @@ s/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/
 type1/public/amsfonts/cm/cmtt10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/ty
 pe1/public/amsfonts/cm/cmtt12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type
 1/urw/bookman/ubkd8a.pfb>
-Output written on thesis.pdf (63 pages, 1482889 bytes).
+Output written on thesis.pdf (65 pages, 1698362 bytes).
 PDF statistics:
- 1344 PDF objects out of 1440 (max. 8388607)
- 261 named destinations out of 1000 (max. 500000)
- 769 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1411 PDF objects out of 1440 (max. 8388607)
+ 282 named destinations out of 1000 (max. 500000)
+ 827 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,4 +1,4 @@
-\begin{thebibliography}{49}
+\begin{thebibliography}{52}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -62,12 +62,33 @@ K.~Sel\c{c}uk Candan, Luigi Di~Caro, and Maria~Luisa Sapino.
 \newblock \doi{10.1145/1458583.1458597}.
 \newblock URL \url{http://doi.acm.org/10.1145/1458583.1458597}.
 
+\bibitem[Churcher et~al.(2011)Churcher, Deaker, and Irwin]{deaker11b}
+Neville Churcher, Chris Deaker, and Warwick Irwin.
+\newblock Applications of tag clouds in information and software visualisation.
+\newblock {Technical Report} {TR-COSC 02/11}, {Department of Computer Science
+  and Software Engineering}, {University of Canterbury, Christchurch, New
+  Zealand}, 2011.
+
 \bibitem[Cui et~al.(2010)Cui, Wu, Liu, Wei, Zhou, and Qu]{Cui10}
 Weiwei Cui, Yingcai Wu, Shixia Liu, Furu Wei, M.X. Zhou, and Huamin Qu.
 \newblock Context preserving dynamic word cloud visualization.
 \newblock In \emph{Pacific Visualization Symposium (PacificVis), 2010 IEEE},
   pages 121 --128, march 2010.
 \newblock \doi{10.1109/PACIFICVIS.2010.5429600}.
+
+\bibitem[Deaker and Churcher(2011)]{deaker11c}
+Chris Deaker and Neville Churcher.
+\newblock Taggle technical manual.
+\newblock {Technical Report} {TR-COSC 03/11}, {Department of Computer Science
+  and Software Engineering}, {University of Canterbury, Christchurch, New
+  Zealand}, 2011.
+
+\bibitem[Deaker et~al.(2011)Deaker, Churcher, and Irwin]{deaker11}
+Chris Deaker, Neville Churcher, and Warwick Irwin.
+\newblock Tag clouds in software visualisation.
+\newblock {Technical Report} {TR-COSC 01/11}, {Department of Computer Science
+  and Software Engineering}, {University of Canterbury, Christchurch, New
+  Zealand}, 2011.
 
 \bibitem[Di~Caro et~al.(2008)Di~Caro, Candan, and Sapino]{dicaro08}
 Luigi Di~Caro, K.~Sel\c{c}uk Candan, and Maria~Luisa Sapino.
