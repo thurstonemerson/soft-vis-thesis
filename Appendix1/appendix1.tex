@@ -1,8 +1,7 @@
-\chapter{Appendix A}
+\section{Software engineering data}
+\label{appdx:tools}
 
-\section{Tools for Obtaining Software Metric Data}
-
-\subsection{Eclipse Metrics Plugin}
+\subsection{Eclipse metrics plugins}
 
 \begin{itemize}
 
@@ -18,7 +17,7 @@
 
 \end{itemize}
 
-\subsection{Software Analysis Platform} 
+\subsection{Software analysis platforms} 
 
 \begin{itemize}
 
@@ -34,7 +33,7 @@
 
 \end{itemize}
 
-\subsection{Metric frameworks/tools}
+\subsection{Metric frameworks/tools}\label{sect:met}
 
 Command line tools or libraries that can generate metrics.
 
@@ -46,19 +45,37 @@ Command line tools or libraries that can generate metrics.
 
 \end{itemize}
 
-\section{Metric Output from Software Analysis Tools}
+\begin{table*}[!htb]
+\caption{\textit{Output format from tools}}
+\centering
+\begin{tabular}{|p{6cm}|p{6cm}|} \hline
+\textbf{Tool}&\textbf{Output}\\ \hline
+Sonar&PDF, HTML or CSV\\ \hline
+CYVIS & CSV, XML\\ \hline
+Rational software analyser & XML, PDF, HTML \\ \hline
+Moose & CSV, XML\\ \hline
+Eclipse metrics2 & XML\\ \hline
+RSM &HTML, CSV, XML \\ \hline
+Borland Together & XML, HTML, CSV, Tab separated\\ \hline
+SourceMonitor & XML, CSV\\ \hline
+CKJM & Space separated\\ \hline
+State of Flow & HTML, CSV, XML\\ 
+\hline\end{tabular}
+\label{table:outputformat}
+\end{table*}
 
-\begin{itemize}
-	\item Sonar- PDF, HTML or CSV
-	\item CYVIS - CSV, XML
-	\item Rational software analyser - XML, PDF or HTML
-	\item Moose - CSV, XML
-	\item Eclipse metrics2 - XML
-	\item RSM - HTML, CSV, XML
-	\item Borland Together - XML, HTML, CSV, Tab separated
-	\item SourceMonitor - XML, CSV
-	\item State of Flow - HTML, CSV or XML
-\end{itemize}
+\begin{table*}[!htb]
+\caption{\textit{Static and dynamic analysis tools}}
+\centering
+\begin{tabular}{|p{6cm}|p{6cm}|} \hline
+\textbf{Tool type}&\textbf{Tool}\\ \hline
+Code coverage tools&Cobertura, NCover \\ \hline
+Memory analysis & Eclipse Memory Analyzer\\ \hline
+Performance analysis & DTrace \\ \hline
+Static analysis & Checkstyle, PMD and FindBugs\\ 
+\hline\end{tabular}
+\label{table:staticanddynamicanalysis}
+\end{table*}
 
 
 % ------------------------------------------------------------------------

@@ -1,0 +1,5 @@
+You are about to see names of US counties from different states.
+
+Dark purple names are from the state 'Colorado'. 
+
+Find and click on 'Lincoln' from Colorado.

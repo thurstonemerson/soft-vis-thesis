@@ -38,6 +38,7 @@
 \usepackage{setspace}
 \usepackage{tocbibind}
 \usepackage{amssymb}
+\usepackage{amsmath}
 %\usepackage{graphicx}
 \usepackage{fancyhdr}
 \usepackage{eucal}
@@ -49,6 +50,35 @@
 \usepackage{ifpdf}
 \usepackage[grey]{quotchap}
 
+
+%ADDED BY JESS FOR SUBFIGURES
+\usepackage{subcaption}
+
+%ADDED BY JESS FOR longtables
+\usepackage{longtable}
+
+%added by jess for references
+\usepackage{varioref}
+
+%ADDED BY JESS FOR LANDSCAPE IMAGES
+\usepackage{afterpage}
+\usepackage{lscape}
+\usepackage[absolute]{textpos}
+\usepackage{pdflscape}
+\usepackage[final]{pdfpages}
+
+%ADDED BY JESS FOR COLUMN CENTERING and columns with multiple lines
+\usepackage{array}
+\newcolumntype{x}[1]{>{\centering\arraybackslash\hspace{0pt}}p{#1}}
+\usepackage{ragged2e}
+\newcolumntype{P}[1]{>{\RaggedRight\hspace{0pt}}p{#1}}
+%FINISH JESS
+
+%added by Jess for bullet points with roman numerals etc
+\usepackage{enumerate}
+
+%added by Jess for multiple appendices
+\usepackage[toc,page]{appendix}
 
 %Bibliography
 %uncomment next line to change bibliography name to references for Book document class
@@ -99,7 +129,7 @@
                  hyperindex = true,
                  hyperfigures
                  ]{hyperref} 
-    \usepackage[pdftex]{graphicx}
+    %JESS DON'T NEED THIS WITH PDFPAGES \usepackage[pdftex]{graphicx}
     \DeclareGraphicsExtensions{.png, .jpg, .pdf}
 
     \pdfcompresslevel=9
@@ -122,7 +152,7 @@
                  ]{hyperref}
 
     %\usepackage{epsfig}
-    \usepackage{graphicx}
+    %JESS DON'T NEED THIS WITH PDFPAGES \usepackage{graphicx}
     \DeclareGraphicsExtensions{.eps, .ps}
     \graphicspath{{ThesisFigs/EPS/}{ThesisFigs/}}
 \fi
@@ -287,10 +317,10 @@ of the requirements for the degree of}}
 
 \newenvironment{abstracts} {\begin{alwayssingle} \pagestyle{empty}
   \begin{center}
-  \vspace*{1.5cm}
+  %\vspace*{1.5cm}
   {\Large \bfseries  Abstract}
   \end{center}
-  \vspace{0.5cm}
+  %\vspace{0.5cm}
    \begin{quote}}
 {\end{quote}\end{alwayssingle}}
 

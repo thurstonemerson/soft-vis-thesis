@@ -1,0 +1,5 @@
+You are about to see names of NZ birds and their endangerment status.
+
+Yellow names are birds with the status 'Extinct'. 
+
+Find and click on 'Piopio' which is extinct.

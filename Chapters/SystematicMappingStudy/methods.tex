@@ -1,0 +1,142 @@
+%Scope of the study is as follows:
+%\begin{itemize}
+%\item Population: Published scientific literature reporting on information visualisation.
+%\item Intervention: Research including an evaluation of tag cloud visualisation.
+%item Outcomes of relevance: Quantity and type of evidence relating to tag clouds as a visualisation or user interface.
+%\item Experimental design: Any scientific experiment or empirical study.
+%\end{itemize}
+During the course of the systematic mapping study, the following activities were carried out: define research questions, define data sources and search strategy, perform searches in all designated digital libraries and search engines using the filter, remove duplicate studies (results reported from multiple search engines), review each paper using specified inclusion/exclusion criteria and determine relevance to the topic and research questions, perform data extraction, and perform data synthesis.
+
+\subsection{Data sources and search strategy}
+
+The digital libraries and search engines which were used to extract the articles were ACM digital library\footnote{\url{dl.acm.org/}},  IEEE Explore\footnote{\url{ieeexplore.ieee.org}}, SpringerLink\footnote{\url{www.springerlink.com}}, CiteSeer\footnote{\url{citeseerx.ist.psu.edu/}}, Scopus\footnote{\url{www.scopus.com}}, Sage Journals\footnote{\url{online.sagepub.com/}}, Scirus\footnote{\url{www.scirus.com}}, Web of Science\footnote{\url{wokinfo.com/}}, ScienceDirect\footnote{\url{www.sciencedirect.com/}} and arXiv\footnote{\url{arxiv.org/}}.
+
+The search terms were grouped into three categories 1) pertaining to visualisation technique 2) relating to visualisation type and 3) search terms relating to evaluation.
+
+\pagebreak
+
+\begin{verbatim}
+("tag cloud" OR "tag clouds" OR "tagcloud" OR "tagclouds") AND
+("evaluation" OR "qualitative" OR "quantitative"
+OR "experiment" OR "experimentation" OR "experiments"
+OR "study" OR "studies") AND 
+("visualisation" OR "visualization" OR 
+"user interface" OR "user interfaces")
+\end{verbatim}
+
+These search groups were joined together with the use of a boolean AND to search document metadata (where available) such as title, abstract, classification and keywords. Additionally, each query had to be adapted according to the interface and query specification of the search engine.
+
+In order to validate the search strategy, a check was performed to ensure a small sample of papers (12) was included in the search results \citep[][]{bateman08, hearst08, kaser07, lohmann09, oosterman10, rivadeneira07, schrammel09, schrammel09b, seifert08, kuo07, halvey07, sinclair08}. These papers had previously been noted as relevant to the research questions during an initial review of the literature.
+
+\subsection{Primary study selection}
+Each paper returned from the digital libraries and search engines using the specified query was checked for duplication against other database results. An initial result total of 181 was whittled down to 100 after removal of duplicates (see Table~\vref{tab:searchresults1}).
+
+\begin{table}
+\centering
+\caption{\textit{Initial search results from digital libraries and corresponding duplicates}}
+\begin{tabular}{|l|c|c|c|} \hline
+\textbf{Digital Libraries}&\textbf{Results}&\textbf{Duplicates}&\textbf{Total}\\ \hline
+ACM digital library&16&1&15\\ \hline
+IEEE Explore&38&0&38\\ \hline
+SpringerLink&10&0&10\\ \hline
+CiteSeer&2&2&0\\ \hline
+Scopus&70&55&15\\ \hline
+Sage Journals&2&2&0\\ \hline
+Scirus&0	&0&0\\ \hline
+Web of Science&40&19&21\\ \hline
+ScienceDirect&2&2&0\\ \hline
+arXiv&1&0&1\\ \hline
+\textbf{Totals}&\textbf{181}&\textbf{81}&\textbf{100}\\
+\hline\end{tabular}
+\label{tab:searchresults1}
+\end{table}
+
+Each paper was then checked for relevancy using the title, abstract and keywords. Studies that met one of the following inclusion criteria were included: 
+
+\begin{itemize}
+\item studies describing the evaluation of tag cloud visualisation
+\item studies describing the evaluation of a visualisation or user interface based on the tag cloud technique
+\item studies describing the evaluation of a system which utilises tag cloud visualisation 
+\item studies describing the evaluation of a system which utilises a visualisation or user interface based on the tag cloud technique
+\end{itemize}
+
+Studies that met one of the following exclusion criteria were excluded:
+
+\begin{itemize}
+\item studies where only an abstract was available
+\item studies where the paper was not available in English
+\item studies describing the evaluation of a system where the evaluation method did not specifically include the tag cloud component
+\item studies where the described evaluation served as a proof of concept
+\item duplicate articles of the same study from different sources
+\end{itemize}
+
+In many cases it was not possible to determine relevancy of the study from the abstract alone, particularly in determining whether the evaluation method actually included evaluation of the tag cloud component of a system. For these studies, it was necessary to consider the paper as a whole. Each paper was reviewed twice for inclusion/exclusion criteria, during two passes of the search results as a means of validation. During the second review of the paper, a set of keywords was extracted. These served as the basis for the creation of the classification categories within mapping facets.
+
+During the inclusion/exclusion phase a further 40 documents were excluded from the study, bringing the total number of primary papers included to 60 (see Table~\vref{tab:searchresults2} for the exclusion details, after duplicates had been removed).
+
+\begin{table}
+\centering
+\caption{\textit{Search results from digital libraries and corresponding excluded papers}}
+\begin{tabular}{|l|c|c|c|} \hline
+\textbf{Digital Libraries}&\textbf{Results}&\textbf{Excluded}&\textbf{Total}\\ \hline
+ACM digital library&15&1&14\\ \hline
+IEEE Explore&38&22&16\\ \hline
+SpringerLink&10&4&6\\ \hline
+Scopus&15&8&7\\ \hline
+Web of Science&21&5&16\\ \hline
+arXiv&1&0&1\\ \hline
+\textbf{Totals}&\textbf{100}&\textbf{40}&\textbf{60}\\
+\hline\end{tabular}
+\label{tab:searchresults2}
+\end{table}
+
+\subsection{Data extraction}\label{sect:dataextraction}
+
+For each research question, a set of classification categories was devised within a mapping facet.
+
+For RQ \textit{Research topic}, we determined the categories by extracting keywords from the primary studies:
+
+\begin{itemize}
+\item evaluating the effectiveness of the tag cloud technique
+\item determining perceived physical demand or workload
+\item proposal of evaluation metrics or methodologies
+\item making design guidelines or recommendations
+\item determining support for user process (social navigation, incidental learning, reflections of learners, determining credibility of sources, dynamic representation of places/situations)
+\item discovering limits of visual perception (visual features or properties, layout)
+\item determining user motivation for use
+\item proposal of a tag cloud enhancement (with respect to relationships, topic clustering, temporal evolution, tag ranking algorithms, tagging interfaces, interfaces for a special dataset or medium, layout optimisation)
+\item evaluations of systems/visualisations targeting a special population (Chinese readers, Hebrew readers, tools for the blind)
+\end{itemize}
+
+For RQ \textit{Evaluation approaches and methods}, the Seven Guiding Scenarios for Information Visualisation Evaluation proposed by \citet{lam12} were used to classify the evaluation approaches and methods:
+
+\begin{description}
+\item[EWP:] \emph{Understanding Environments and Work Practices.} Studying the design context for visualisation tools including tasks, work environments, and current work practices. Types of research methods include field observation, interviews and laboratory observation.
+\item[VDAR:] \emph{Evaluating Visual Data Analysis and Reasoning.} Discovering if and how a visualisation tool supports the generation of actionable
+and relevant knowledge in a given domain. Types of research methods include case studies and controlled experiments.
+\item[CTV:] \emph{Evaluating Communication Through Visualisation.} Discovering if and how communication can be supported by visualisation (for example through learning, teaching, idea presentation and casual consumption of ambient displays). Types of research methods include controlled experiments and field observation and interviews. 
+\item[CDA:] \emph{Evaluating Collaborative Data Analysis.} Studying whether a tool allows for collaboration, collaborative analysis, and/or collaborative decision-making processes. Types of research methods include heuristic evaluation, log analysis and field or laboratory observation.
+\item[UP:] \emph{Evaluating User Performance.} Studying if and how specific visualisation features affect objectively measurable user performance. Types of research methods include controlled experiments and field logs.
+\item[UE:] \emph{Evaluating User Experience.} People's subjective feedback and opinions.  Types of research methods include informal evaluation, usability tests and field observation.
+\item[VA:] \emph{Evaluating Visualisation Algorithms.} Study the performance and quality of visualisation algorithms by judging the generated output. Types of research methods include algorithmic performance measurement and quality metrics.
+\end{description}
+
+By classifying the studies based on these guiding scenarios we get a picture of the underlying evaluation goals, rather than just a description of the type of research methods employed. 
+
+For RQ \textit{Visualisation domain}, the categories were again determined by keywords we extracted from the primary studies:
+
+\begin{itemize}
+\item web (user generated content, database search results, recommendation systems)
+\item mixed media (image, film, television and audio)
+\item software engineering
+\item text corpora
+\item geographical information
+\item mobile phone
+\item digital forensics
+\item health and medicine (online forums, tool for the blind)
+\item situated displays
+\item database search results (OLAP, online database)
+\item multi-variate data
+\end{itemize}
+
+Papers may cover more than one domain or topic so can be associated with multiple classification types. Where applicable, papers were categorised into sub-topics (as indicated within the brackets).

@@ -1,0 +1,5 @@
+You are about to see names of mines in the US and their operating status.
+
+Light green names have the status 'Abandoned'. 
+
+Find and click on 'Grundy' which has status abandoned.

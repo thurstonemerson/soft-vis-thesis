@@ -1,98 +1,211 @@
 \select@language {english}
-\contentsline {chapter}{Contents}{iv}{chapter*.1}
-\contentsline {chapter}{List of Figures}{viii}{chapter*.2}
-\contentsline {chapter}{Nomenclature}{ix}{chapter*.3}
+\contentsline {chapter}{Contents}{ii}{chapter*.1}
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
-\contentsline {section}{\numberline {1.1}Motivation}{1}{section.1.1}
-\contentsline {section}{\numberline {1.2}Thesis Statement}{2}{section.1.2}
-\contentsline {section}{\numberline {1.3}Objectives}{3}{section.1.3}
-\contentsline {section}{\numberline {1.4}Contributions}{4}{section.1.4}
-\contentsline {section}{\numberline {1.5}Outline}{4}{section.1.5}
-\contentsline {chapter}{\numberline {2}Background}{5}{chapter.2}
-\contentsline {section}{\numberline {2.1}Software Engineering}{5}{section.2.1}
-\contentsline {subsection}{\numberline {2.1.1}Current Software Engineering Practices}{6}{subsection.2.1.1}
-\contentsline {subsubsection}{\numberline {2.1.1.1}Development Methodologies}{6}{subsubsection.2.1.1.1}
-\contentsline {subsubsection}{\numberline {2.1.1.2}Automated Unit Testing and Continuous Integration}{7}{subsubsection.2.1.1.2}
-\contentsline {subsubsection}{\numberline {2.1.1.3}Object-Oriented Design Principles}{7}{subsubsection.2.1.1.3}
-\contentsline {subsubsection}{\numberline {2.1.1.4}Object-Oriented Design Heuristics and Patterns}{9}{subsubsection.2.1.1.4}
-\contentsline {subsubsection}{\numberline {2.1.1.5}Refactoring}{9}{subsubsection.2.1.1.5}
-\contentsline {subsection}{\numberline {2.1.2}Software Analysis}{11}{subsection.2.1.2}
-\contentsline {subsubsection}{\numberline {2.1.2.1}Dynamic and Static Software Analysis Tools}{11}{subsubsection.2.1.2.1}
-\contentsline {subsubsection}{\numberline {2.1.2.2}Software Metrics}{12}{subsubsection.2.1.2.2}
-\contentsline {subsubsection}{\numberline {2.1.2.3}Software Visualisation}{14}{subsubsection.2.1.2.3}
-\contentsline {section}{\numberline {2.2}Tag Clouds}{16}{section.2.2}
-\contentsline {subsection}{\numberline {2.2.1}History}{17}{subsection.2.2.1}
-\contentsline {subsection}{\numberline {2.2.2}Related Work - Extensions and Evaluations}{17}{subsection.2.2.2}
-\contentsline {chapter}{\numberline {3}Existing Tag Cloud Implementations in Software Visualisation}{21}{chapter.3}
-\contentsline {section}{\numberline {3.1}Related Work}{21}{section.3.1}
-\contentsline {section}{\numberline {3.2}Existing Tools}{22}{section.3.2}
-\contentsline {subsection}{\numberline {3.2.1}Sonar}{22}{subsection.3.2.1}
-\contentsline {subsection}{\numberline {3.2.2}Sonar Extension using Javascript Library}{22}{subsection.3.2.2}
-\contentsline {subsection}{\numberline {3.2.3}Sourcecloud}{24}{subsection.3.2.3}
-\contentsline {subsection}{\numberline {3.2.4}Taggle}{24}{subsection.3.2.4}
-\contentsline {chapter}{\numberline {4}Visualisation of Tag Clouds}{27}{chapter.4}
-\contentsline {chapter}{\numberline {5}Addressing Challenges of Tag Clouds in Software Engineering}{28}{chapter.5}
-\contentsline {section}{\numberline {5.1}Tag Clouds vs Other Visualisations}{28}{section.5.1}
-\contentsline {subsection}{\numberline {5.1.1}Parallel Co-ordinate Plots}{28}{subsection.5.1.1}
-\contentsline {subsection}{\numberline {5.1.2}Treemap}{29}{subsection.5.1.2}
-\contentsline {subsection}{\numberline {5.1.3}Kiviat Chart}{29}{subsection.5.1.3}
-\contentsline {subsection}{\numberline {5.1.4}Scatterplot Matrix}{29}{subsection.5.1.4}
-\contentsline {section}{\numberline {5.2}Number of Variables}{29}{section.5.2}
-\contentsline {section}{\numberline {5.3}Scale}{29}{section.5.3}
-\contentsline {section}{\numberline {5.4}Distribution}{29}{section.5.4}
-\contentsline {section}{\numberline {5.5}Outliers}{29}{section.5.5}
-\contentsline {section}{\numberline {5.6}Long Identifiers}{29}{section.5.6}
-\contentsline {section}{\numberline {5.7}Perspective}{30}{section.5.7}
-\contentsline {section}{\numberline {5.8}Interaction}{30}{section.5.8}
-\contentsline {section}{\numberline {5.9}Advantages of Tag Clouds}{30}{section.5.9}
-\contentsline {chapter}{\numberline {6}Data Selection}{31}{chapter.6}
-\contentsline {section}{\numberline {6.1}Aspectj}{31}{section.6.1}
-\contentsline {section}{\numberline {6.2}EclipseSDK}{31}{section.6.2}
-\contentsline {chapter}{\numberline {7}Empirical Feasibility Study}{32}{chapter.7}
-\contentsline {section}{\numberline {7.1}Apparatus and Materials}{32}{section.7.1}
-\contentsline {section}{\numberline {7.2}Participants}{32}{section.7.2}
-\contentsline {section}{\numberline {7.3}Procedure}{33}{section.7.3}
-\contentsline {section}{\numberline {7.4}User Tasks}{34}{section.7.4}
-\contentsline {subsection}{\numberline {7.4.1}Analysis}{34}{subsection.7.4.1}
-\contentsline {subsection}{\numberline {7.4.2}Monitoring/Trends}{34}{subsection.7.4.2}
-\contentsline {subsection}{\numberline {7.4.3}Query}{34}{subsection.7.4.3}
-\contentsline {subsection}{\numberline {7.4.4}Navigation}{34}{subsection.7.4.4}
-\contentsline {section}{\numberline {7.5}Measurement of Problems}{34}{section.7.5}
-\contentsline {section}{\numberline {7.6}Design and Data analysis}{34}{section.7.6}
-\contentsline {section}{\numberline {7.7}Results}{34}{section.7.7}
-\contentsline {section}{\numberline {7.8}Conclusions}{34}{section.7.8}
-\contentsline {chapter}{\numberline {8}Empirical Experiment Design}{35}{chapter.8}
-\contentsline {section}{\numberline {8.1}Tasks}{35}{section.8.1}
-\contentsline {section}{\numberline {8.2}Datasets}{35}{section.8.2}
-\contentsline {section}{\numberline {8.3}Statistics}{35}{section.8.3}
-\contentsline {section}{\numberline {8.4}Tests}{35}{section.8.4}
-\contentsline {section}{\numberline {8.5}Threats to Validity}{35}{section.8.5}
-\contentsline {chapter}{\numberline {9}Conclusions}{36}{chapter.9}
-\contentsline {chapter}{Appendix A}{37}{appendix*.4}
-\contentsline {section}{\numberline {A.1}Tools for Obtaining Software Metric Data}{37}{section..1}
-\contentsline {subsection}{\numberline {A.1.1}Eclipse Metrics Plugin}{37}{subsection..1.1}
-\contentsline {subsection}{\numberline {A.1.2}Software Analysis Platform}{38}{subsection..1.2}
-\contentsline {subsection}{\numberline {A.1.3}Metric frameworks/tools}{38}{subsection..1.3}
-\contentsline {section}{\numberline {A.2}Metric Output from Software Analysis Tools}{39}{section..2}
-\contentsline {chapter}{Appendix B}{40}{appendix*.5}
-\contentsline {section}{\numberline {B.3}Tools for Creation of Tag Clouds}{40}{section..3}
-\contentsline {subsection}{\numberline {B.3.1}Web Tools}{40}{subsection..3.1}
-\contentsline {subsection}{\numberline {B.3.2}Processing Libraries}{40}{subsection..3.2}
-\contentsline {subsection}{\numberline {B.3.3}Javascript Libraries}{41}{subsection..3.3}
-\contentsline {subsection}{\numberline {B.3.4}Java Libraries}{41}{subsection..3.4}
-\contentsline {subsection}{\numberline {B.3.5}Google Web Toolkit Visualisation}{41}{subsection..3.5}
-\contentsline {section}{\numberline {B.4}Visualisation Libraries}{41}{section..4}
-\contentsline {chapter}{Appendix C}{43}{appendix*.6}
-\contentsline {section}{\numberline {C.5}\cite {lohmann09}}{43}{section..5}
-\contentsline {subsection}{\numberline {C.5.1}Results}{43}{subsection..5.1}
-\contentsline {subsection}{\numberline {C.5.2}User Tasks}{43}{subsection..5.2}
-\contentsline {subsection}{\numberline {C.5.3}Tag Cloud Layout}{44}{subsection..5.3}
-\contentsline {subsection}{\numberline {C.5.4}Tag Cloud Generation}{44}{subsection..5.4}
-\contentsline {subsection}{\numberline {C.5.5}Procedure}{45}{subsection..5.5}
-\contentsline {section}{\numberline {C.6}\cite {schrammel09b}}{45}{section..6}
-\contentsline {subsection}{\numberline {C.6.1}Results}{45}{subsection..6.1}
-\contentsline {subsection}{\numberline {C.6.2}User Tasks}{46}{subsection..6.2}
-\contentsline {subsection}{\numberline {C.6.3}Tag Cloud Layout}{46}{subsection..6.3}
-\contentsline {subsection}{\numberline {C.6.4}Tag Cloud Generation}{47}{subsection..6.4}
-\contentsline {subsection}{\numberline {C.6.5}Procedure}{47}{subsection..6.5}
-\contentsline {chapter}{References}{48}{appendix*.7}
+\contentsline {section}{\numberline {1.1}Motivation}{2}{section.1.1}
+\contentsline {section}{\numberline {1.2}Research questions}{3}{section.1.2}
+\contentsline {paragraph}{Design choices for an interactive tag cloud tool}{4}{section*.3}
+\contentsline {paragraph}{Previous evaluations in tag cloud research}{4}{section*.4}
+\contentsline {paragraph}{Evaluation of our interactive tag cloud tool}{4}{section*.5}
+\contentsline {section}{\numberline {1.3}Approach}{5}{section.1.3}
+\contentsline {section}{\numberline {1.4}Contributions}{6}{section.1.4}
+\contentsline {section}{\numberline {1.5}Outline}{8}{section.1.5}
+\contentsline {chapter}{\numberline {2}Background}{11}{chapter.2}
+\contentsline {section}{\numberline {2.1}The problem with software development}{11}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Iterative development methodologies}{12}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Automated unit testing}{12}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {2.1.3}Project management tools}{13}{subsection.2.1.3}
+\contentsline {subsection}{\numberline {2.1.4}Design patterns}{13}{subsection.2.1.4}
+\contentsline {subsection}{\numberline {2.1.5}Code smells}{13}{subsection.2.1.5}
+\contentsline {subsection}{\numberline {2.1.6}Metrics}{14}{subsection.2.1.6}
+\contentsline {subsection}{\numberline {2.1.7}Static and dynamic code analysis}{15}{subsection.2.1.7}
+\contentsline {subsection}{\numberline {2.1.8}Refactoring}{15}{subsection.2.1.8}
+\contentsline {section}{\numberline {2.2}Visualisation}{16}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Perception and cognition}{17}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Visual search}{17}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}Graphical representation}{18}{subsection.2.2.3}
+\contentsline {subsection}{\numberline {2.2.4}General techniques}{18}{subsection.2.2.4}
+\contentsline {subsection}{\numberline {2.2.5}Interaction techniques}{19}{subsection.2.2.5}
+\contentsline {section}{\numberline {2.3}Software visualisation}{21}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}What can we visualise?}{22}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Quality assurance}{22}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.3}Process management}{23}{subsection.2.3.3}
+\contentsline {subsection}{\numberline {2.3.4}Architecture}{23}{subsection.2.3.4}
+\contentsline {subsection}{\numberline {2.3.5}Software evolution}{24}{subsection.2.3.5}
+\contentsline {subsection}{\numberline {2.3.6}Runtime data}{25}{subsection.2.3.6}
+\contentsline {section}{\numberline {2.4}Tag clouds}{25}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}Why tag clouds?}{27}{subsection.2.4.1}
+\contentsline {subsection}{\numberline {2.4.2}Tag clouds in software engineering}{27}{subsection.2.4.2}
+\contentsline {subsection}{\numberline {2.4.3}Sourcecloud}{28}{subsection.2.4.3}
+\contentsline {subsection}{\numberline {2.4.4}Sonar platform}{29}{subsection.2.4.4}
+\contentsline {section}{\numberline {2.5}Summary and discussion}{30}{section.2.5}
+\contentsline {chapter}{\numberline {3}Design Considerations for Interactive Tag Cloud Visualisation}{31}{chapter.3}
+\contentsline {section}{\numberline {3.1}Visual variables}{32}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Visual mapping}{32}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}Layout and order}{35}{subsection.3.1.2}
+\contentsline {subsection}{\numberline {3.1.3}Tag length and position}{35}{subsection.3.1.3}
+\contentsline {subsection}{\numberline {3.1.4}Font size}{36}{subsection.3.1.4}
+\contentsline {subsection}{\numberline {3.1.5}Font Family}{37}{subsection.3.1.5}
+\contentsline {subsection}{\numberline {3.1.6}Font colour}{37}{subsection.3.1.6}
+\contentsline {subsection}{\numberline {3.1.7}Background Colour}{39}{subsection.3.1.7}
+\contentsline {subsection}{\numberline {3.1.8}Font Style}{39}{subsection.3.1.8}
+\contentsline {section}{\numberline {3.2}Challenges in software visualisation}{41}{section.3.2}
+\contentsline {section}{\numberline {3.3}Datasets for the tag cloud technique}{42}{section.3.3}
+\contentsline {section}{\numberline {3.4}Task types to enable data exploration in a tag cloud}{45}{section.3.4}
+\contentsline {section}{\numberline {3.5}Summary and discussion}{46}{section.3.5}
+\contentsline {chapter}{\numberline {4}Taggle: A Tag Cloud Visualisation Tool}{49}{chapter.4}
+\contentsline {section}{\numberline {4.1}Original prototype}{50}{section.4.1}
+\contentsline {section}{\numberline {4.2}Data model and transformation}{51}{section.4.2}
+\contentsline {section}{\numberline {4.3}Visual encoding and mapping selection}{52}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Categorical and continuous data}{53}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}Tag}{55}{subsection.4.3.2}
+\contentsline {paragraph}{Visual variable: tag length}{55}{section*.30}
+\contentsline {paragraph}{Visual variable: font family}{55}{section*.31}
+\contentsline {subsection}{\numberline {4.3.3}Order}{55}{subsection.4.3.3}
+\contentsline {paragraph}{Visual variable: order}{55}{section*.33}
+\contentsline {subsection}{\numberline {4.3.4}Size}{56}{subsection.4.3.4}
+\contentsline {paragraph}{Visual variable: font size}{56}{section*.34}
+\contentsline {subsection}{\numberline {4.3.5}Colour and transparency}{56}{subsection.4.3.5}
+\contentsline {paragraph}{Visual variable: background colour}{56}{section*.35}
+\contentsline {paragraph}{Visual variable: font colour}{58}{section*.39}
+\contentsline {paragraph}{Visual variable: transparency}{58}{section*.41}
+\contentsline {section}{\numberline {4.4}Software engineering tasks}{58}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}Filtering textual data}{60}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}Dealing with large scale data}{62}{subsection.4.4.2}
+\contentsline {subsection}{\numberline {4.4.3}Identify similar characteristics of data}{64}{subsection.4.4.3}
+\contentsline {subsection}{\numberline {4.4.4}Identifying data distribution}{64}{subsection.4.4.4}
+\contentsline {subsection}{\numberline {4.4.5}Identify data correlations and outliers}{66}{subsection.4.4.5}
+\contentsline {subsection}{\numberline {4.4.6}Finding minimum/maximum values}{67}{subsection.4.4.6}
+\contentsline {subsection}{\numberline {4.4.7}Comparison of data elements}{68}{subsection.4.4.7}
+\contentsline {section}{\numberline {4.5}Summary and discussion}{69}{section.4.5}
+\contentsline {chapter}{\numberline {5}Systematic Mapping Study of Tag Cloud Research}{72}{chapter.5}
+\contentsline {section}{\numberline {5.1}Strategies for evaluation}{73}{section.5.1}
+\contentsline {section}{\numberline {5.2}Systematic mapping study}{74}{section.5.2}
+\contentsline {section}{\numberline {5.3}Methods}{75}{section.5.3}
+\contentsline {subsection}{\numberline {5.3.1}Data sources and search strategy}{75}{subsection.5.3.1}
+\contentsline {subsection}{\numberline {5.3.2}Primary study selection}{76}{subsection.5.3.2}
+\contentsline {subsection}{\numberline {5.3.3}Data extraction}{78}{subsection.5.3.3}
+\contentsline {section}{\numberline {5.4}Results}{81}{section.5.4}
+\contentsline {subsection}{\numberline {5.4.1}Research topic}{82}{subsection.5.4.1}
+\contentsline {subsection}{\numberline {5.4.2}Research approach and methods}{84}{subsection.5.4.2}
+\contentsline {subsection}{\numberline {5.4.3}Visualisation domain}{85}{subsection.5.4.3}
+\contentsline {section}{\numberline {5.5}Summary and discussion}{85}{section.5.5}
+\contentsline {section}{\numberline {5.6}Conclusion}{88}{section.5.6}
+\contentsline {chapter}{\numberline {6}Evaluation Strategy for Taggle}{90}{chapter.6}
+\contentsline {section}{\numberline {6.1}Overall evaluation strategy}{91}{section.6.1}
+\contentsline {section}{\numberline {6.2}Selected evaluations}{93}{section.6.2}
+\contentsline {paragraph}{Use of background colour}{94}{section*.66}
+\contentsline {paragraph}{Use of multiple visual mappings}{94}{section*.67}
+\contentsline {paragraph}{}{94}{section*.68}
+\contentsline {section}{\numberline {6.3}Dataset generation}{95}{section.6.3}
+\contentsline {section}{\numberline {6.4}Conducting an eye-tracking experiment}{96}{section.6.4}
+\contentsline {section}{\numberline {6.5}Summary and discussion}{97}{section.6.5}
+\contentsline {chapter}{\numberline {7}Heuristic Evaluation of Taggle}{99}{chapter.7}
+\contentsline {section}{\numberline {7.1}Heuristics}{100}{section.7.1}
+\contentsline {section}{\numberline {7.2}Participants}{101}{section.7.2}
+\contentsline {section}{\numberline {7.3}Apparatus}{101}{section.7.3}
+\contentsline {section}{\numberline {7.4}Tag corpora}{101}{section.7.4}
+\contentsline {section}{\numberline {7.5}Procedure}{101}{section.7.5}
+\contentsline {section}{\numberline {7.6}Results}{104}{section.7.6}
+\contentsline {subsection}{\numberline {7.6.1}Heuristics --- issues, comments and observations}{104}{subsection.7.6.1}
+\contentsline {paragraph}{Initial presentation of dataset}{104}{section*.74}
+\contentsline {paragraph}{Selection of data mappings}{105}{section*.75}
+\contentsline {paragraph}{Static and dynamic filtering}{106}{section*.76}
+\contentsline {paragraph}{Visual encoding}{107}{section*.77}
+\contentsline {subsection}{\numberline {7.6.2}Heuristics --- guideline checklist}{107}{subsection.7.6.2}
+\contentsline {paragraph}{Information coding --- visual representation (Figure~\vref {fig:informationcoding})}{107}{section*.79}
+\contentsline {paragraph}{Minimal actions --- interactivity (Figure~\vref {fig:minactions})}{108}{section*.81}
+\contentsline {paragraph}{Flexibility --- interactivity (Figure~\vref {fig:flexibility})}{108}{section*.83}
+\contentsline {paragraph}{Consistency --- interactivity (Figure~\vref {fig:consistency})}{108}{section*.85}
+\contentsline {paragraph}{Recognition rather than recall --- interactivity (Figure~\vref {fig:recognition})}{108}{section*.87}
+\contentsline {paragraph}{Spatial organisation --- visual representation (Figure~\vref {fig:organisation})}{108}{section*.89}
+\contentsline {paragraph}{Remove the extraneous --- interactivity (Figure~\vref {fig:extraneous})}{109}{section*.91}
+\contentsline {paragraph}{Dataset reduction --- interactivity (Figure~\vref {fig:reduction})}{109}{section*.93}
+\contentsline {paragraph}{Orientation and help --- interactivity (Figure~\vref {fig:help})}{111}{section*.95}
+\contentsline {paragraph}{Prompting --- interactivity (Figure~\vref {fig:prompting})}{111}{section*.97}
+\contentsline {subsection}{\numberline {7.6.3}Questionnaire}{112}{subsection.7.6.3}
+\contentsline {paragraph}{Is the visualisation technique instinctively comprehensible? (Figure~\vref {fig:comprehension})}{113}{section*.99}
+\contentsline {paragraph}{Are users able to infer general information about the data from interacting with the visualisation? What kind of information? (Figure~\vref {fig:inferinformation})}{113}{section*.101}
+\contentsline {paragraph}{Does background colour around the text make data easier to understand? (Figure~\vref {fig:backgroundcolour})}{113}{section*.103}
+\contentsline {paragraph}{Is a spiral or typewriter layout preferred? For what kinds of information?}{114}{section*.104}
+\contentsline {paragraph}{Is it useful to map a single data variable to multiple visual features? (Figure~\vref {fig:datamapping})}{115}{section*.106}
+\contentsline {section}{\numberline {7.7}Adaptations resulting from the evaluation}{117}{section.7.7}
+\contentsline {paragraph}{Initial presentation of dataset}{117}{section*.107}
+\contentsline {paragraph}{Selection of data mappings}{117}{figure.caption.109}
+\contentsline {paragraph}{Static and dynamic filtering}{120}{section*.112}
+\contentsline {paragraph}{Visual encoding}{120}{section*.113}
+\contentsline {section}{\numberline {7.8}Summary and discussion}{120}{section.7.8}
+\contentsline {chapter}{\numberline {8}Experiment One: Tag Colour Placement}{122}{chapter.8}
+\contentsline {section}{\numberline {8.1}Foreground or background colour}{123}{section.8.1}
+\contentsline {section}{\numberline {8.2}Participants}{124}{section.8.2}
+\contentsline {section}{\numberline {8.3}Apparatus}{124}{section.8.3}
+\contentsline {section}{\numberline {8.4}Tag corpora}{124}{section.8.4}
+\contentsline {section}{\numberline {8.5}Procedure}{124}{section.8.5}
+\contentsline {section}{\numberline {8.6}Design}{125}{section.8.6}
+\contentsline {section}{\numberline {8.7}Task}{126}{section.8.7}
+\contentsline {section}{\numberline {8.8}Measurements}{127}{section.8.8}
+\contentsline {section}{\numberline {8.9}Hypotheses}{127}{section.8.9}
+\contentsline {section}{\numberline {8.10}Results}{127}{section.8.10}
+\contentsline {subsection}{\numberline {8.10.1}Eye-gaze data analysis}{127}{subsection.8.10.1}
+\contentsline {subsection}{\numberline {8.10.2}Response time}{128}{subsection.8.10.2}
+\contentsline {subsection}{\numberline {8.10.3}Significance testing}{133}{subsection.8.10.3}
+\contentsline {section}{\numberline {8.11}Threats to validity}{134}{section.8.11}
+\contentsline {section}{\numberline {8.12}Summary and discussion}{135}{section.8.12}
+\contentsline {section}{\numberline {8.13}Conclusion and future work}{136}{section.8.13}
+\contentsline {chapter}{\numberline {9}Experiment Two: Dual Mappings}{137}{chapter.9}
+\contentsline {section}{\numberline {9.1}Single or dual data mappings}{138}{section.9.1}
+\contentsline {section}{\numberline {9.2}Participants}{138}{section.9.2}
+\contentsline {section}{\numberline {9.3}Apparatus}{139}{section.9.3}
+\contentsline {section}{\numberline {9.4}Tag corpora}{139}{section.9.4}
+\contentsline {section}{\numberline {9.5}Procedure}{139}{section.9.5}
+\contentsline {section}{\numberline {9.6}Design}{139}{section.9.6}
+\contentsline {section}{\numberline {9.7}Task}{140}{section.9.7}
+\contentsline {section}{\numberline {9.8}Measurements}{140}{section.9.8}
+\contentsline {section}{\numberline {9.9}Hypotheses}{140}{section.9.9}
+\contentsline {section}{\numberline {9.10}Results}{142}{section.9.10}
+\contentsline {subsection}{\numberline {9.10.1}Eye-gaze data analysis}{142}{subsection.9.10.1}
+\contentsline {subsection}{\numberline {9.10.2}Response time}{142}{subsection.9.10.2}
+\contentsline {subsection}{\numberline {9.10.3}Significance testing}{149}{subsection.9.10.3}
+\contentsline {section}{\numberline {9.11}Threats to validity}{149}{section.9.11}
+\contentsline {section}{\numberline {9.12}Summary and discussion}{150}{section.9.12}
+\contentsline {section}{\numberline {9.13}Conclusion and future work}{151}{section.9.13}
+\contentsline {chapter}{\numberline {10}Experiment Three: Knowledge Discovery}{152}{chapter.10}
+\contentsline {section}{\numberline {10.1}Knowledge discovery support in Taggle}{152}{section.10.1}
+\contentsline {section}{\numberline {10.2}Participants}{153}{section.10.2}
+\contentsline {section}{\numberline {10.3}Apparatus}{153}{section.10.3}
+\contentsline {section}{\numberline {10.4}Tag corpus}{154}{section.10.4}
+\contentsline {section}{\numberline {10.5}Procedure}{155}{section.10.5}
+\contentsline {section}{\numberline {10.6}Tasks}{155}{section.10.6}
+\contentsline {section}{\numberline {10.7}Measurements}{157}{section.10.7}
+\contentsline {section}{\numberline {10.8}Results}{157}{section.10.8}
+\contentsline {subsection}{\numberline {10.8.1}Eye-gaze and mouse-tracking data analysis}{157}{subsection.10.8.1}
+\contentsline {paragraph}{Mapping selections}{157}{section*.139}
+\contentsline {paragraph}{Legends, helpers and summary information}{157}{section*.141}
+\contentsline {paragraph}{Filtering}{161}{section*.146}
+\contentsline {subsection}{\numberline {10.8.2}Task analysis}{164}{subsection.10.8.2}
+\contentsline {section}{\numberline {10.9}Workload measures}{167}{section.10.9}
+\contentsline {section}{\numberline {10.10}Summary and discussion}{168}{section.10.10}
+\contentsline {section}{\numberline {10.11}Conclusion and future work}{170}{section.10.11}
+\contentsline {chapter}{\numberline {11}Conclusions}{171}{chapter.11}
+\contentsline {section}{\numberline {11.1}Review of thesis contributions}{172}{section.11.1}
+\contentsline {paragraph}{Tag background colour}{173}{section*.154}
+\contentsline {paragraph}{Dual data mappings}{173}{section*.155}
+\contentsline {paragraph}{Visual search patterns within a tag cloud}{174}{section*.156}
+\contentsline {paragraph}{Knowledge discovery}{174}{section*.157}
+\contentsline {section}{\numberline {11.2}Limitations and future work}{174}{section.11.2}
+\contentsline {section}{\numberline {11.3}Closing remarks}{176}{section.11.3}
+\contentsline {chapter}{Appendices}{177}{section*.158}
+\contentsline {section}{\numberline {A}Software engineering data}{178}{section.a..1}
+\contentsline {subsection}{\numberline {A.1}Eclipse metrics plugins}{178}{subsection.a..1.1}
+\contentsline {subsection}{\numberline {A.2}Software analysis platforms}{178}{subsection.a..1.2}
+\contentsline {subsection}{\numberline {A.3}Metric frameworks/tools}{179}{subsection.a..1.3}
+\contentsline {section}{\numberline {B}Heuristic artefacts}{181}{section.a..2}
+\contentsline {subsection}{\numberline {B.1}Heuristic descriptions}{181}{subsection.a..2.1}
+\contentsline {subsection}{\numberline {B.2}Heuristic checklist}{187}{subsection.a..2.2}
+\contentsline {subsection}{\numberline {B.3}Typical usage patterns}{188}{subsection.a..2.3}
+\contentsline {paragraph}{Set-up of mappings}{188}{section*.163}
+\contentsline {paragraph}{Interacting with the data and filtering information}{189}{section*.164}
+\contentsline {paragraph}{Exploring data and generating hypotheses}{190}{section*.165}
+\contentsline {subsection}{\numberline {B.4}Usability issues found linked to heuristics}{191}{subsection.a..2.4}
+\contentsline {section}{\numberline {C}Eye-gaze visualisations}{193}{section.a..3}
+\contentsline {section}{\numberline {D}Publications}{201}{section.a..4}
+\contentsline {chapter}{References}{216}{appendix*.176}

@@ -1,0 +1,77 @@
+\chapter[Systematic Mapping Study of Tag Cloud Research]{Systematic Mapping Study\\of Tag Cloud Research}
+
+\label{chap:strateval}
+\ifpdf
+    \graphicspath{{Chapters/SystematicMappingStudy/SystematicMappingStudyFigs/PNG/}{Chapters/SystematicMappingStudy/SystematicMappingStudyFigs/PDF/}{Chapters/SystematicMappingStudy/SystematicMappingStudyFigs/}}
+\else
+    \graphicspath{{Chapters/SystematicMappingStudy/SystematicMappingStudyFigs/EPS/}{Chapters/SystematicMappingStudy/SystematicMappingStudyFigs/}}
+\fi
+
+
+Information visualisation techniques can be challenging to evaluate \citep{plaisant04}. This is because, in addition to general evaluation challenges (such as choosing appropriate questions and tasks, defining methods and then executing the evaluation correctly) the visualisation focus on the data exploration process is difficult to capture and quantify. We embarked on a systematic mapping study of previous research evaluating the tag cloud technique or interactive tools that included tag cloud visualisation. This study identified topics, fields or domains that had not been extensively researched, and approaches and methods which had been used for evaluation. To classify our work, we used a set of information visualisation guiding scenarios which are outlined in \S\ref{sect:strategies}. Research questions and goals for the study are presented in \S\ref{sect:researchquestions}. The research methodology including data sources, study selection and data extraction are outlined in \S\ref{sect:mappingmethods}. Results for research topic, methods, domains and approaches are discussed in \S\ref{sect:mappingresults}. Finally, summary and conclusions are presented in  \S\ref{sect:mappingdiscussion} and \S\ref{sect:mappingconclusions}. 
+
+%This work provided an overview of what is known about tag clouds, and helped us plan and focus our overall evaluation strategy.
+
+\section{Strategies for evaluation}\label{sect:strategies}
+
+In 2012, \citet{lam12} identified seven guiding scenarios for information visualisation evaluation. These scenarios were gathered from a systematic review of 803 information visualisation papers (345 of which included evaluations). Of these scenarios, four can be roughly defined as evaluation of the \emph{data analysis process} (EWP, VDAR, CTV, CDA -- described in \S\ref{sect:dataextraction}) and the remaining three evaluate the \emph{visualisation use} (UP, UE, VA). These two types of strategies have different goals and use different methodologies. 
+
+Evaluation of the \emph{data analysis process} has a goal of understanding the underlying process and roles played by the visualisation itself, and captures a more whole-tool holistic view. The results from this type of analysis may be more meaningful as realistic tasks and scenarios are used. However, results can be more difficult to quantify. Also, the whole tool is evaluated so evaluation may require full featured and mature tool.
+
+The \emph{visualisation use} type strategies do not evaluate the whole tool but a system slice or technique. They are used to evaluate design decisions, explore the design space, benchmark existing systems or test usability. For these strategies, outputs are easier to quantify generated insight. There is a need to break the evaluation into techniques or visual encoding types, so careful prioritisation is needed. Because of this breaking off into sections, more than one experiment may be needed. Tasks may also need to be heavily abstracted which impacts realism.
+
+In the systematic review performed by \citet{lam12}, only 15 percent of papers used data analysis process type strategies in their evaluation. They concluded that evaluation in the information visualisation sector has been following in the footsteps of evaluations for Human Computer Interaction (HCI) and Computer Graphics (CG), both of which are traditionally focused on controlled experiments and usability evaluations. The data process strategy research questions (such as a tools support for reasoning, knowledge discovery or decision making) are of high relevance and practical value. \citet{lam12} highlighted the need to think critically about the goals of the types of evaluations needed for information visualisation.
+
+We were interested to find out what types of evaluations had been performed for tools utilising tag cloud visualisation techniques, and what research topics and domains the evaluations focused on so we performed a systematic mapping study on 60 selected primary studies from 2007 to 2012. 
+
+%We found that 93\% of evaluations used visualisation use type strategies. This was despite 43\% of papers incorporating tag clouds (or enhanced tag clouds) into interactive systems which likely had goals of exploring data or discovering information. Research was strongly focussed in the WWW domain. 
+
+\section{Systematic mapping study}\label{sect:researchquestions}
+
+We had a number of goals for our systematic mapping study. We wanted to find all papers which have evaluated the effectiveness of the tag cloud visualisation technique in order to identify those areas of tag cloud visualisation which contain either exhaustive research (allowing us to apply and build on), or deserts of information (allowing us to shape future research in this area). Secondly, tag clouds are most commonly associated with the web - we were interested to find out what other domains had proposed and evaluated tag cloud visualisation techniques. Finally, we wanted to discover what evaluation approaches and methods had been used by tag cloud evaluation studies in order to achieve their research goals. Overall, the systematic mapping study should serve to build an overview of what is known about tag clouds as a visualisation technique in general, identifying clusters of evidence and establishing areas of research where knowledge gaps exist. 
+
+\begin{description}
+\item[RQ:] \textit{What topics for tag cloud visualisation have been evaluated and to what extent?} We want to establish which topic areas have been focused on in previous research, in order to help shape future research.
+\item[RQ:] \textit{What evaluation approaches and methods have been used?} We want to discover what types of evaluation have been undertaken for tag cloud visualisation, and what methods were used.
+\item[RQ:]\textit{ For which fields or domains have tag cloud visualisations been evaluated?} The domain which tag clouds are primarily associated with is the web. We want to know what other fields or domains tag cloud visualisation has been proposed and evaluated for. 
+\end{description}
+
+
+%\section{Research Questions}\label{researchquestions}
+%\input{Chapters/SystematicMappingStudy/researchquestions}
+
+\section{Methods}\label{sect:mappingmethods}
+\input{Chapters/SystematicMappingStudy/methods}
+
+\section{Results}\label{sect:mappingresults}
+\input{Chapters/SystematicMappingStudy/results}
+
+\section{Summary and discussion}\label{sect:mappingdiscussion}
+
+We wanted to build an overview of what was known about tag clouds as a visualisation technique in general, identifying clusters of evidence and establishing areas of research where knowledge gaps existed. We identified 60 papers spanning from 2007 to 2012 which were relevant to this evaluation of tag cloud visualisation evaluation. 
+
+\begin{description}
+
+\item[RQ:] \textit{What topics for tag cloud visualisation have been evaluated and to what extent?} Topics and total number of papers are found in Table~\vref{tab:researchtopic}. We wanted to find all papers which have evaluated the effectiveness of the tag cloud visualisation technique  so we could identify relevant research that might be applied and built upon, or areas where information was sparse. Only nine papers evaluated the effectiveness of tag cloud visualisation. While this can be widened to 16 to include papers which discuss issues surrounding the visual perception of tag clouds, this indicates there is still room to define the overall effectiveness of tag clouds as a technique. There was a large proportion of papers (43 percent) evaluating interactive interfaces for special datasets, mediums or populations. 
+
+\item[RQ:] \textit{What evaluation approaches and methods have been used?} Evaluation approaches and total number of papers are found in Table~\vref{tab:evaluation}. We wanted to discover what types of evaluation have been undertaken for tag cloud visualisation, and what methods were used. The vast majority (93 percent) of research performed evaluations relating to `User Performance', `User Experience' and `Automated Evaluation of Visualisation' -- \emph{visualisation use} type categories. Within these categories, the methods of evaluation included controlled experiments, lab questionnaires and automated algorithm performance measurements.
+
+\item[RQ:]\textit{ For which fields or domains have tag cloud visualisations been evaluated?} Domains  and total number of papers are found in Table~\vref{tab:domain}. The domain which tag clouds are primarily associated with is the web. We wanted to know what other fields or domains tag cloud visualisation had been proposed and evaluated for.  The surveyed research indicated a majority of papers (48 percent) were researching tag cloud visualisation for the web and user generated data domain. This is understandable and stems from the initial beginnings of tag cloud visualisation on the web. However, recent research in domains such as mobile phones, digital forensics, and health and medicine indicate researchers are beginning to consider the viability of tag cloud visualisation in other areas \citep[such as][]{ogrady12, aras09, jankun11}. In the software engineering domain, there has been one evaluative study utilising tag clouds \citep{kurtz11}.
+
+\end{description}
+
+The results in this systematic mapping study match those discovered by \citet{lam12} where information visualisation evaluations methods focus primarily on controlled experiments and lab questionnaires within approaches UP, UE and AEV. This is despite 43 percent of papers evaluating interactive interfaces to explore data or discover information for special datasets, mediums or populations. Other approaches to evaluation may need to be considered to cover a wider variety of research goals.
+
+\section{Conclusion}\label{sect:mappingconclusions}
+
+The surveyed research indicates a strong prevalence in the research for the web and user generated data domain with software engineering focused on in only one paper. Tag cloud visualisation itself has not been as extensively evaluated as other areas, indicating there is still room to define their overall effectiveness and develop ways to improve the tag cloud as a technique. A large proportion of papers evaluated interactive interfaces tailored to particular datasets, populations or mediums. We should note that no interface identified in the mapping study proposed a system such as Taggle, where data fields from a multi-variate dataset are mapped to tag cloud visual properties and manipulated interactively. Moreover, despite the prevalence of interactive interfaces, evaluation approaches were of a limited range --- predominantly \emph{visualisation use} techniques measuring user responses times, as opposed to strategies that consider the \emph{data analysis process}, which are of high relevance and value when evaluating tools with data exploration and knowledge discovery goals. 
+
+In recent years there has been a spate of research surrounding tag cloud visualisation. This systematic study of 60 papers (from 2007 to 2012) was undertaken in order to discover what sorts of topics relating to tag cloud visualisation have been evaluated and to what extent. This work provided an overview of what is known about tag clouds, and helped us plan and focus our overall evaluation strategy which is presented in Chapter~\ref{chap:eval}.
+
+% ------------------------------------------------------------------------
+
+
+%%% Local Variables: 
+%%% mode: latex
+%%% TeX-master: "../thesis"
+%%% End: 
